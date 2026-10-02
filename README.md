@@ -1,49 +1,53 @@
 # Dental Datasets Hub
 
-A growing, specialty-organized directory of dental and oral-health datasets for research, teaching, and tool development.
+A curated, specialty-organized directory of dental and oral-health dataset metadata for research, teaching, and tool development. This repository stores descriptions and source links; it does not redistribute patient images or dataset files.
 
-> **Scope:** this is a curated directory, not a claim that every dental dataset worldwide has already been found. It stores catalogue metadata and links only; it does not redistribute patient images or source dataset files. Dataset access, ethics, and reuse conditions are set by each original provider.
+## Start here
 
-## Browse the catalogues
+- **[Catalogue index](catalog/README.md):** browse all catalogues, record counts, and how to find entries.
+- **[Specialty map](catalog/specialties.md):** find datasets across clinical and technical areas, including known coverage gaps.
+- **[Schema guide](catalog/SCHEMA.md):** interpret the catalogue fields, access labels, and licence notes.
 
-| Area | Catalogue | What it covers |
-|---|---|---|
-| Dental imaging, radiology, and cross-specialty datasets | [Dental imaging catalogue](catalog/dental_imaging.csv) | Panoramic and periapical radiographs, CBCT, diagnostic labels, and segmentation resources |
-| Oral medicine, oral pathology, and oral cancer | [Oral medicine catalogue](catalog/oral_medicine.csv) | 25 records carried forward from the existing oral-medicine catalogue |
-| Digital dentistry and virtual patients | [Digital dentistry catalogue](catalog/digital_dentistry.csv) | Intraoral scans, CBCT–oral-scan pairs, facial motion, and jaw tracking |
-| Clinical reasoning and dental QA benchmarks | [Benchmark catalogue](catalog/clinical_reasoning_benchmarks.csv) | Multispecialty dental knowledge QA, panoramic VQA, and controlled-access clinical benchmarks |
-| Specialty map | [Browse by specialty](catalog/specialties.md) | Find resources by clinical specialty and see where coverage is still missing |
-| Field definitions | [Catalogue schema](catalog/SCHEMA.md) | How to interpret access, licence, verification, and other fields |
+## Catalogue overview
 
-## Repository layout
+| Catalogue | Records | Main focus |
+|---|---:|---|
+| [Dental imaging](catalog/dental_imaging.csv) | 11 | Radiographs, CBCT, annotations, and segmentation |
+| [Oral medicine](catalog/oral_medicine.csv) | 25 | Oral medicine, mucosal disease, pathology, and cancer |
+| [Digital dentistry](catalog/digital_dentistry.csv) | 11 | Intraoral scans, virtual patients, facial motion, and jaw tracking |
+| [Clinical reasoning benchmarks](catalog/clinical_reasoning_benchmarks.csv) | 5 | Dental QA and multimodal or controlled-access benchmarks |
 
-- `catalog/` — machine-readable catalogues and the specialty index.
-- `scripts/check_catalog.py` — validates catalogue files and checks source links.
-- `.github/workflows/weekly-catalog-review.yml` — weekly link audit and curator reminder.
+These are 52 catalogue records, not necessarily 52 unique datasets; some resources may overlap. Use the [catalogue index](catalog/README.md) for details.
+
+## How the repository is organized
+
+- `catalog/*.csv` — machine-readable dataset records, grouped by data type or research use.
+- `catalog/specialties.md` — specialty-to-catalogue crosswalk.
+- `catalog/SCHEMA.md` — field definitions and status meanings.
+- `scripts/check_catalog.py` — validates CSV structure and checks source links.
+- `.github/workflows/weekly-catalog-review.yml` — scheduled link audit and curator reminder.
 - [Sources and verification rules](SOURCES.md)
-- [How to contribute](CONTRIBUTING.md)
+- [Contribution guide](CONTRIBUTING.md)
 - [Update log](UPDATE_LOG.md)
 
 ## Weekly maintenance
 
-Every Sunday, a GitHub Actions workflow checks links in the catalogues and opens a review issue with the audit outcome and a short curation checklist. It can also be run manually from the **Actions** tab.
-
-The workflow does not silently add datasets or alter scientific metadata. New records need a human to check the original dataset page, publication, access rules, and licence before merging. This keeps the weekly process useful without turning search matches or broken links into unverified catalogue facts.
+Every Sunday, GitHub Actions checks catalogue structure and source links, then opens a review issue with the audit outcome and a curation checklist. The workflow can also be run manually from the **Actions** tab. It does not silently add datasets or change scientific metadata; a maintainer must verify the original source, access rules, and licence before adding a record.
 
 ## Reuse and data protection
 
-- Follow the original source's licence, ethics approval, access conditions, and data-use agreement.
-- A link marked open or public describes the provider's record; confirm the current download conditions at the source before use.
-- Do not upload patient-level data, restricted files, credentials, private links, or large third-party archives here.
-- Cite the original dataset and publication in research. Cite this repository only for the catalogue itself.
+- Follow the source provider's licence, ethics approval, access conditions, and data-use agreement.
+- Confirm download and reuse terms on the source page before use; “public” does not necessarily mean unrestricted.
+- Do not upload patient-level data, restricted files, credentials, private links, or third-party archives.
+- Cite the original dataset and publication when using data. Cite this repository only for the catalogue.
 
-## Starting coverage
+## Initial coverage
 
-The oral-medicine (25 rows) and digital-dentistry (11 rows) records were imported from existing repositories, preserving their original fields and verification dates. The dental-imaging catalogue (11 rows) and clinical-reasoning benchmark catalogue (5 rows) were seeded from primary dataset, project, and publication pages checked on 2026-10-03. These are catalogue rows, not a claim of 52 unique datasets; some resources overlap. Check each source page again before a study, particularly where the catalogue says the licence or access terms are unclear.
+The oral-medicine (25 rows) and digital-dentistry (11 rows) catalogues were imported from existing repositories. The dental-imaging (11 rows) and clinical-reasoning benchmark (5 rows) catalogues were seeded from dataset, project, and publication pages checked on 2026-10-03. Imported records were not all independently rechecked; see [SOURCES.md](SOURCES.md) and each record's verification note.
 
-- [Oral medicine source catalogue](https://github.com/dr-lamia/oral-medicine-ai-datasets)
-- [Dental virtual-patient source catalogue](https://github.com/dr-lamia/dental-virtual-patient-datasets)
+- [Original oral-medicine catalogue](https://github.com/dr-lamia/oral-medicine-ai-datasets)
+- [Original dental virtual-patient catalogue](https://github.com/dr-lamia/dental-virtual-patient-datasets)
 
 ## Citation
 
-Please cite the original dataset providers when using data. See [CITATION.cff](CITATION.cff) for citing this catalogue.
+Please cite original dataset providers when using their data. See [CITATION.cff](CITATION.cff) to cite this catalogue.
