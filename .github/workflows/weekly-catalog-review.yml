@@ -65,5 +65,4 @@ jobs:
               repo: context.repo.repo,
               title,
               body,
-              labels: ["weekly-review"]
             });
