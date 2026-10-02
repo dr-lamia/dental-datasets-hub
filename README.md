@@ -47,4 +47,4 @@ The oral-medicine (25 rows) and digital-dentistry (11 rows) records were importe
 
 ## Citation
 
-Please cite the original dataset providers when using data. A repository citation file will be added after the catalogue has a stable release and citation record.
+Please cite the original dataset providers when using data. See [CITATION.cff](CITATION.cff) for citing this catalogue.
