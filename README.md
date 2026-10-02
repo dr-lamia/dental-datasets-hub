@@ -10,7 +10,8 @@ A growing, specialty-organized directory of dental and oral-health datasets for 
 |---|---|---|
 | Dental imaging, radiology, and cross-specialty datasets | [Dental imaging catalogue](catalog/dental_imaging.csv) | Panoramic and periapical radiographs, CBCT, diagnostic labels, and segmentation resources |
 | Oral medicine, oral pathology, and oral cancer | [Oral medicine catalogue](catalog/oral_medicine.csv) | 25 records carried forward from the existing oral-medicine catalogue |
-| Digital dentistry and virtual patients | [Digital dentistry catalogue](catalog/digital_dentistry.csv) | Intraoral scans, CBCT–oral-scan pairs, facial motion, and jaw tracking |\n| Clinical reasoning and dental QA benchmarks | [Benchmark catalogue](catalog/clinical_reasoning_benchmarks.csv) | Multispecialty dental knowledge QA, panoramic VQA, and controlled-access clinical benchmarks |
+| Digital dentistry and virtual patients | [Digital dentistry catalogue](catalog/digital_dentistry.csv) | Intraoral scans, CBCT–oral-scan pairs, facial motion, and jaw tracking |
+| Clinical reasoning and dental QA benchmarks | [Benchmark catalogue](catalog/clinical_reasoning_benchmarks.csv) | Multispecialty dental knowledge QA, panoramic VQA, and controlled-access clinical benchmarks |
 | Specialty map | [Browse by specialty](catalog/specialties.md) | Find resources by clinical specialty and see where coverage is still missing |
 | Field definitions | [Catalogue schema](catalog/SCHEMA.md) | How to interpret access, licence, verification, and other fields |
 
