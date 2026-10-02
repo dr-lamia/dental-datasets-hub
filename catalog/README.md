@@ -19,6 +19,10 @@ The 52 rows are catalogue records, not 52 confirmed unique datasets. Check ident
 - **By data type or research use:** choose a catalogue from the table above.
 - **By access, licence, or verification status:** inspect the corresponding CSV columns and read the [schema guide](SCHEMA.md).
 
+## Discovery queue
+
+[Open the discovery queue](discovery_queue.csv) for 42 additional leads from the [ITU/WHO dental dataset index](https://github.com/sergiouribe/dental_datasets_itu/blob/main/AI_Dental_Datasets_List.md). These are **unverified leads**, not confirmed records. The queue preserves reported platform, DOI, modality, and scale where listed; it flags each lead for a primary-source, access, licence, and duplicate check before promotion.
+
 ## Curation notes
 
 - These files contain metadata and links, not copies of patient data.
