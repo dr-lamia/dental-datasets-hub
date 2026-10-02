@@ -8,3 +8,4 @@
 - Added an initial dental-imaging catalogue with 11 records from primary dataset, challenge, institutional, and publication pages.
 - Added a specialty map, data schema, contribution guidance, link validator, and a scheduled weekly review workflow.
 - Verification limit: imported records were not all rechecked at their primary sources during this initial setup; see `SOURCES.md`.
+\n## 2026-10-03 — Clinical reasoning benchmarks added\n\n- Added five benchmark records: MMOral/MMOral-OPG-Bench, GlobalDentBench, DentalBench, the restricted DentVLM clinical study set, and OPG-Bench.\n- Added benchmark coverage to the specialty map and documented inherited versus independently checked records.\n- Kept the private project-study Drive link out of this public repository.\n
