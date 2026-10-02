@@ -13,7 +13,7 @@ from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 CATALOG = ROOT / "catalog"
-URL_FIELDS = {"dataset_url", "publication_url", "code_url", "url"}
+URL_FIELDS = {"dataset_url", "publication_url", "code_url", "url", "reported_dataset_url", "discovery_index_url"}
 TIMEOUT = 12
 MAX_WORKERS = 8
 
