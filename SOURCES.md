@@ -26,6 +26,18 @@ The entries in `catalog/dental_imaging.csv` were prepared from official Zenodo, 
 
 The entries in `catalog/clinical_reasoning_benchmarks.csv` link to dataset repositories/cards or primary publication pages where available. Each record's verification note states what was confirmed and what remains uncertain; a paper, code repository, or public benchmark page does not by itself establish data access or reuse rights.
 
+## Discovery sources and coverage
+
+The maintainers use these sources to find candidates across imaging, clinical, population-health, education, digital-dentistry, and oral-health research. They are discovery tools; each catalogue record should link to its own primary source.
+
+- [ITU/WHO dental dataset index](https://github.com/sergiouribe/dental_datasets_itu/blob/main/AI_Dental_Datasets_List.md): an editable index focused on dental imaging and AI.
+- [NLM Dataset Catalog](https://datasetcatalog.nlm.nih.gov/): search biomedical records with dental, oral-health, craniofacial, modality, and specialty terms.
+- [NIDCR Data-Driven Science Hub](https://www.ddshub.nih.gov/data-sources): curated dental, oral, and craniofacial sources, including population, phenotype, multi-omic, imaging, and biospecimen data.
+- [Systematic review of openly accessible oral-maxillofacial imaging datasets](https://doi.org/10.1038/s41746-025-01818-5): reports 105 datasets from searches of literature and dataset platforms through September 2024. Its imaging scope does not cover every dental or oral-health data type.
+- [Dental image-analysis dataset review and project page](https://github.com/zhenhuanZ/DIA-Review): a separate review of publicly available AI dental-image datasets.
+
+The current `catalog/discovery_queue.csv` holds 42 leads transcribed from the ITU/WHO index. Leads need primary-source verification and deduplication before they are promoted. The queue is a starting point, not an exhaustive inventory. Some datasets are private, controlled-access, newly released, poorly indexed, or described only in papers.
+
 ## What “checked” means
 
 A maintainer should:
