@@ -18,3 +18,9 @@
 
 - Removed an external discovery-source reference from the repository documentation.
 - Kept benchmark records linked to their dataset or publication sources, with access and licence uncertainty documented.
+
+## 2026-10-03 — Catalogue navigation reorganized
+
+- Added a dedicated catalogue index with links, record counts, and browsing guidance.
+- Reorganized the specialty map into clinical areas and made cross-catalogue links and coverage gaps easier to scan.
+- Simplified the repository README around the index, catalogue overview, maintenance, and reuse guidance.
