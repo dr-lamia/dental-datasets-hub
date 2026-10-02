@@ -43,7 +43,6 @@ The oral-medicine (25 rows) and digital-dentistry (11 rows) records were importe
 
 - [Oral medicine source catalogue](https://github.com/dr-lamia/oral-medicine-ai-datasets)
 - [Dental virtual-patient source catalogue](https://github.com/dr-lamia/dental-virtual-patient-datasets)
-- [DentaGraph dataset and benchmark resources](https://github.com/dr-lamia/DentaGraph-research-hub)
 
 ## Citation
 
