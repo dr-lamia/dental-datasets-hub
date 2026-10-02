@@ -48,6 +48,12 @@ The oral-medicine (25 rows) and digital-dentistry (11 rows) catalogues were impo
 - [Original oral-medicine catalogue](https://github.com/dr-lamia/oral-medicine-ai-datasets)
 - [Original dental virtual-patient catalogue](https://github.com/dr-lamia/dental-virtual-patient-datasets)
 
+## Coverage and completeness
+
+The repository aims for broad coverage, but no search can guarantee every dental dataset published anywhere online. It tracks confirmed catalogue records separately from discovery leads that still need primary-source checks. The review queue includes 42 leads from a public dental dataset index; some may be duplicates, outdated, or unavailable.
+
+Coverage spans dental and oral-health imaging, oral medicine and pathology, digital dentistry, clinical reasoning, and other population or clinical resources as they are verified. See [the catalogue index](catalog/README.md) and [source search strategy](SOURCES.md).
+
 ## Citation
 
 Please cite original dataset providers when using their data. See [CITATION.cff](CITATION.cff) to cite this catalogue.
