@@ -1,6 +1,6 @@
 # Catalogue schema and status guide
 
-The hub keeps four CSV catalogues so the pre-existing specialist inventories can be carried over without discarding their original fields:
+The four main CSV catalogues preserve specialty inventories without discarding their original fields. A separate `discovery_queue.csv` tracks leads that still need primary-source verification and deduplication; do not treat it as a verified catalogue.
 
 - `dental_imaging.csv` uses the common fields below.
 - `oral_medicine.csv` preserves the fields from the established oral-medicine dataset inventory.
