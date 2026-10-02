@@ -13,4 +13,8 @@
 
 - Added five benchmark records: MMOral/MMOral-OPG-Bench, GlobalDentBench, DentalBench, the restricted DentVLM clinical study set, and OPG-Bench.
 - Added benchmark coverage to the specialty map and documented inherited versus independently checked records.
-- Kept the private project-study Drive link out of this public repository.
+
+## 2026-10-03 — Source references cleaned up
+
+- Removed an external discovery-source reference from the repository documentation.
+- Kept benchmark records linked to their dataset or publication sources, with access and licence uncertainty documented.
