@@ -10,7 +10,7 @@ A growing, specialty-organized directory of dental and oral-health datasets for 
 |---|---|---|
 | Dental imaging, radiology, and cross-specialty datasets | [Dental imaging catalogue](catalog/dental_imaging.csv) | Panoramic and periapical radiographs, CBCT, diagnostic labels, and segmentation resources |
 | Oral medicine, oral pathology, and oral cancer | [Oral medicine catalogue](catalog/oral_medicine.csv) | 25 records carried forward from the existing oral-medicine catalogue |
-| Digital dentistry and virtual patients | [Digital dentistry catalogue](catalog/digital_dentistry.csv) | Intraoral scans, CBCT–oral-scan pairs, facial motion, and jaw tracking |
+| Digital dentistry and virtual patients | [Digital dentistry catalogue](catalog/digital_dentistry.csv) | Intraoral scans, CBCT–oral-scan pairs, facial motion, and jaw tracking |\n| Clinical reasoning and dental QA benchmarks | [Benchmark catalogue](catalog/clinical_reasoning_benchmarks.csv) | Multispecialty dental knowledge QA, panoramic VQA, and controlled-access clinical benchmarks |
 | Specialty map | [Browse by specialty](catalog/specialties.md) | Find resources by clinical specialty and see where coverage is still missing |
 | Field definitions | [Catalogue schema](catalog/SCHEMA.md) | How to interpret access, licence, verification, and other fields |
 
@@ -38,7 +38,7 @@ The workflow does not silently add datasets or alter scientific metadata. New re
 
 ## Starting coverage
 
-The oral-medicine records and digital-dentistry records were imported from the existing repositories listed below. Their original catalogue fields and verification dates are preserved. The dental-imaging catalogue was seeded from primary dataset and publication pages checked on 2026-10-03. Check each source page again before a study, particularly where the catalogue says the licence or access terms are unclear.
+The oral-medicine (25 rows) and digital-dentistry (11 rows) records were imported from existing repositories, preserving their original fields and verification dates. The dental-imaging catalogue (11 rows) and clinical-reasoning benchmark catalogue (5 rows) were seeded from primary dataset, project, and publication pages checked on 2026-10-03. These are catalogue rows, not a claim of 52 unique datasets; some resources overlap. Check each source page again before a study, particularly where the catalogue says the licence or access terms are unclear.
 
 - [Oral medicine source catalogue](https://github.com/dr-lamia/oral-medicine-ai-datasets)
 - [Dental virtual-patient source catalogue](https://github.com/dr-lamia/dental-virtual-patient-datasets)
