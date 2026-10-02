@@ -1,10 +1,12 @@
 # Catalogue schema and status guide
 
-The hub keeps three CSV catalogues so the pre-existing specialist inventories can be carried over without discarding their original fields:
+The hub keeps four CSV catalogues so the pre-existing specialist inventories can be carried over without discarding their original fields:
 
 - `dental_imaging.csv` uses the common fields below.
 - `oral_medicine.csv` preserves the fields from the established oral-medicine dataset inventory.
-- `digital_dentistry.csv` preserves the fields from the established virtual-patient inventory.\n- `clinical_reasoning_benchmarks.csv` records text and multimodal dental QA/clinical-reasoning resources. A blank dataset URL or an `unclear` status means the paper or code is public but a direct data download has not been verified.
+- `digital_dentistry.csv` preserves the fields from the established virtual-patient inventory.
+- `clinical_reasoning_benchmarks.csv` records text and multimodal dental QA/clinical-reasoning resources. A blank dataset URL or an `unclear` status means a paper or code is public but a direct data download has not been verified.
+- `clinical_reasoning_benchmarks.csv` records text and multimodal dental QA/clinical-reasoning resources. A blank dataset URL or an `unclear` status means the paper or code is public but a direct data download has not been verified.
 
 ## Common fields
 
@@ -20,6 +22,7 @@ The hub keeps three CSV catalogues so the pre-existing specialist inventories ca
 | `license_status` | Exact licence if the source states one; otherwise say `Not stated on source page checked` or `Needs verification` |
 | `dataset_url` | Primary dataset page or repository |
 | `publication_url` | Descriptor paper or source publication, if known |
+| `code_url` | Related official code repository, when available |
 | `last_checked` | Date a maintainer checked the linked source page (ISO `YYYY-MM-DD`) |
 | `verification_note` | Limits or uncertainty that a researcher should know |
 
