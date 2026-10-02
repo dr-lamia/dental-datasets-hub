@@ -36,7 +36,7 @@ The maintainers use these sources to find candidates across imaging, clinical, p
 - [Systematic review of openly accessible oral-maxillofacial imaging datasets](https://doi.org/10.1038/s41746-025-01818-5): reports 105 datasets from searches of literature and dataset platforms through September 2024. Its imaging scope does not cover every dental or oral-health data type.
 - [Dental image-analysis dataset review and project page](https://github.com/zhenhuanZ/DIA-Review): a separate review of publicly available AI dental-image datasets.
 
-The current `catalog/discovery_queue.csv` holds 42 leads transcribed from the ITU/WHO index. Leads need primary-source verification and deduplication before they are promoted. The queue is a starting point, not an exhaustive inventory. Some datasets are private, controlled-access, newly released, poorly indexed, or described only in papers.
+The current `catalog/discovery_queue.csv` holds 71 leads: 42 transcribed from the ITU/WHO index and 29 from NIDCR data-source categories. The latter include population surveys, clinical registries, phenotype, omics, and head-and-neck imaging sources. Leads need primary-source verification and deduplication before they are promoted. The queue is a starting point, not an exhaustive inventory. Some datasets are private, controlled-access, newly released, poorly indexed, or described only in papers.
 
 ## What “checked” means
 
