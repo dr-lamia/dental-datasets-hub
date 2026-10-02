@@ -6,7 +6,6 @@ The hub keeps four CSV catalogues so the pre-existing specialist inventories can
 - `oral_medicine.csv` preserves the fields from the established oral-medicine dataset inventory.
 - `digital_dentistry.csv` preserves the fields from the established virtual-patient inventory.
 - `clinical_reasoning_benchmarks.csv` records text and multimodal dental QA/clinical-reasoning resources. A blank dataset URL or an `unclear` status means a paper or code is public but a direct data download has not been verified.
-- `clinical_reasoning_benchmarks.csv` records text and multimodal dental QA/clinical-reasoning resources. A blank dataset URL or an `unclear` status means the paper or code is public but a direct data download has not been verified.
 
 ## Common fields
 
