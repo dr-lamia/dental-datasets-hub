@@ -24,3 +24,9 @@
 - Added a dedicated catalogue index with links, record counts, and browsing guidance.
 - Reorganized the specialty map into clinical areas and made cross-catalogue links and coverage gaps easier to scan.
 - Simplified the repository README around the index, catalogue overview, maintenance, and reuse guidance.
+
+## 2026-10-03 — Dataset discovery coverage expanded
+
+- Added a 42-row discovery queue from a public dental dataset index, with each lead marked for primary-source review.
+- Documented additional discovery sources for imaging, population, phenotype, omics, and other oral-health data.
+- Clarified that discovery leads are not confirmed records and that internet-wide completeness cannot be guaranteed.
