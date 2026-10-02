@@ -16,7 +16,9 @@ Two existing repositories owned by the maintainer were carried into this hub:
 - [oral-medicine-ai-datasets](https://github.com/dr-lamia/oral-medicine-ai-datasets): 25 records in its source README/catalogue, with original access, provenance, and verification fields preserved in `catalog/oral_medicine.csv`. That source README states a verification date of 2026-09-28. This hub has not independently rechecked all 25 primary sources.
 - [dental-virtual-patient-datasets](https://github.com/dr-lamia/dental-virtual-patient-datasets): 11 records, with the original schema preserved in `catalog/digital_dentistry.csv`. Recheck source access and licence before reuse.
 
-The import preserves these records for continuity; it does not certify every inherited detail as independently verified.\n\n- [DentaGraph research hub](https://github.com/dr-lamia/DentaGraph-research-hub): public benchmark leads from its dataset/benchmark resource page were checked against their official dataset or publication pages and added to `catalog/clinical_reasoning_benchmarks.csv`. A private project-study Drive link in the working document was not copied into this public repository.
+The import preserves these records for continuity; it does not certify every inherited detail as independently verified.
+
+- [DentaGraph research hub](https://github.com/dr-lamia/DentaGraph-research-hub): public benchmark leads from its dataset/benchmark resource page were checked against their official dataset or publication pages and added to `catalog/clinical_reasoning_benchmarks.csv`. A private project-study Drive link in the working document was not copied into this public repository.
 
 ## New dental-imaging records
 
