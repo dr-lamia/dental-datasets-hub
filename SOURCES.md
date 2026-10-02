@@ -18,11 +18,13 @@ Two existing repositories owned by the maintainer were carried into this hub:
 
 The import preserves these records for continuity; it does not certify every inherited detail as independently verified.
 
-- [DentaGraph research hub](https://github.com/dr-lamia/DentaGraph-research-hub): public benchmark leads from its dataset/benchmark resource page were checked against their official dataset or publication pages and added to `catalog/clinical_reasoning_benchmarks.csv`. A private project-study Drive link in the working document was not copied into this public repository.
-
 ## New dental-imaging records
 
 The entries in `catalog/dental_imaging.csv` were prepared from official Zenodo, PhysioNet, challenge, institutional project, or publication pages on 2026-10-03. The verification note records uncertainty that remained on the source page. Where a source exposed no licence field in the page view, the catalogue does not infer one from the platform's general policy.
+
+## Clinical reasoning benchmark records
+
+The entries in `catalog/clinical_reasoning_benchmarks.csv` link to dataset repositories/cards or primary publication pages where available. Each record's verification note states what was confirmed and what remains uncertain; a paper, code repository, or public benchmark page does not by itself establish data access or reuse rights.
 
 ## What “checked” means
 
