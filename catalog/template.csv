@@ -1,0 +1,2 @@
+dataset_id,dataset_name,specialties,modality,scale_or_cases,labels_or_tasks,access_status,license_status,dataset_url,publication_url,last_checked,verification_note
+EXAMPLE,Replace with source name,Specialty A; Specialty B,Image modality or data type,"Keep unit: patients/cases/images/scans",Labels or task,unclear,Needs verification,https://example.org/dataset,,YYYY-MM-DD,"State what is unclear; do not guess."
