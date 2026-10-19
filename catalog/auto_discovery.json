@@ -1,34 +1,10 @@
 {
   "updated_at": "2026-10-19T20:02:35Z",
   "sources": [
-    {
-      "source": "Zenodo",
-      "query_count": 10,
-      "successful_queries": 10,
-      "failed_queries": 0,
-      "retrieved_candidate_matches": 29
-    },
-    {
-      "source": "Figshare",
-      "query_count": 10,
-      "successful_queries": 10,
-      "failed_queries": 0,
-      "retrieved_candidate_matches": 7
-    },
-    {
-      "source": "Hugging Face",
-      "query_count": 10,
-      "successful_queries": 10,
-      "failed_queries": 0,
-      "retrieved_candidate_matches": 30
-    },
-    {
-      "source": "Europe PMC",
-      "query_count": 10,
-      "successful_queries": 10,
-      "failed_queries": 0,
-      "retrieved_candidate_matches": 4
-    }
+    "Zenodo",
+    "Figshare",
+    "Hugging Face",
+    "Europe PMC"
   ],
   "records": [
     {
@@ -1026,5 +1002,35 @@
   ],
   "total_records": 62,
   "new_this_scan": 0,
-  "note": "Automatically discovered public metadata only. Every record is unverified; Europe PMC records are publication leads, not confirmed datasets. Sources may fail or be rate-limited. Not an exhaustive index."
+  "note": "Automatically discovered public metadata only. Every record is unverified; Europe PMC records are publication leads, not confirmed datasets. Sources may fail or be rate-limited. Not an exhaustive index.",
+  "source_status": [
+    {
+      "source": "Zenodo",
+      "query_count": 10,
+      "successful_queries": 10,
+      "failed_queries": 0,
+      "retrieved_candidate_matches": 29
+    },
+    {
+      "source": "Figshare",
+      "query_count": 10,
+      "successful_queries": 10,
+      "failed_queries": 0,
+      "retrieved_candidate_matches": 7
+    },
+    {
+      "source": "Hugging Face",
+      "query_count": 10,
+      "successful_queries": 10,
+      "failed_queries": 0,
+      "retrieved_candidate_matches": 30
+    },
+    {
+      "source": "Europe PMC",
+      "query_count": 10,
+      "successful_queries": 10,
+      "failed_queries": 0,
+      "retrieved_candidate_matches": 4
+    }
+  ]
 }
