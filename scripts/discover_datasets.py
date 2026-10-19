@@ -290,7 +290,7 @@ def main():
     for label, internal in zip(sources, ("zenodo", "figshare", "huggingface", "europepmc")):
         stats.append({"source": label, "query_count": len(TOPICS), "successful_queries": successes[internal],
                       "failed_queries": failures[internal], "retrieved_candidate_matches": counts[internal]})
-    result = {"updated_at": NOW, "sources": stats, "records": ordered,
+    result = {"updated_at": NOW, "sources": sources, "source_status": stats, "records": ordered,
               "total_records": len(ordered), "new_this_scan": recent,
               "note": "Automatically discovered public metadata only. Every record is unverified; Europe PMC records are publication leads, not confirmed datasets. Sources may fail or be rate-limited. Not an exhaustive index."}
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
