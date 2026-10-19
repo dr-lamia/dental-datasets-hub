@@ -1,52 +1,36 @@
 {
-  "updated_at": "2026-10-19T19:59:45Z",
+  "updated_at": "2026-10-19T20:02:35Z",
   "sources": [
     {
       "source": "Zenodo",
       "query_count": 10,
       "successful_queries": 10,
       "failed_queries": 0,
-      "retrieved_candidate_matches": 36
+      "retrieved_candidate_matches": 29
     },
     {
       "source": "Figshare",
       "query_count": 10,
       "successful_queries": 10,
       "failed_queries": 0,
-      "retrieved_candidate_matches": 9
+      "retrieved_candidate_matches": 7
     },
     {
       "source": "Hugging Face",
       "query_count": 10,
       "successful_queries": 10,
       "failed_queries": 0,
-      "retrieved_candidate_matches": 40
+      "retrieved_candidate_matches": 30
     },
     {
       "source": "Europe PMC",
       "query_count": 10,
       "successful_queries": 10,
       "failed_queries": 0,
-      "retrieved_candidate_matches": 5
+      "retrieved_candidate_matches": 4
     }
   ],
   "records": [
-    {
-      "id": "zenodo-10-5281-zenodo-23473910",
-      "title": "Supporting informations for: Drop the mic?! Strong intra-individual variations in dental microwear textures in carnassial blades of canids reveal difficulties in interpreting microwear as a dietary proxy",
-      "source": "Zenodo",
-      "url": "https://zenodo.org/records/23473910",
-      "doi": "10.5281/zenodo.23473910",
-      "date": "2026-10-19",
-      "description": "The study examines variation in dental microwear textures across different spatial and biological scales on the carnassial teeth of canids to assess the variability and heterogeneity of microwear texture signals and their implications for interpretation.",
-      "license": "cc-by-nc-sa-4.0",
-      "access": "See original record",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "dental",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19"
-    },
     {
       "id": "hugging-face-huggingface-co-datasets-jyunkai-dental-ai-eval",
       "title": "Jyunkai/dental-ai-eval",
@@ -75,7 +59,7 @@
       "access": "See original record",
       "source_type": "dataset",
       "status": "unverified",
-      "query": "tooth",
+      "query": "implant dentistry",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19"
     },
@@ -92,22 +76,6 @@
       "source_type": "dataset",
       "status": "unverified",
       "query": "periodontal",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19"
-    },
-    {
-      "id": "zenodo-10-5281-zenodo-23435937",
-      "title": "Peri-implant bone characteristics of dental implants retrieved from humans: a systematic review and meta-analysis",
-      "source": "Zenodo",
-      "url": "https://zenodo.org/records/23435937",
-      "doi": "10.5281/zenodo.23435937",
-      "date": "2026-10-16",
-      "description": "This dataset contains data extracted for a systematic review and meta-analysis of peri-implant bone histological outcomes in humans. It includes four Excel files covering bone-to-implant contact (BIC; 63 studies, 176 estimates), bone density within the threads (BDWT; 22 studies, 61 estimates), bone density outside the threads (BDOT; 18 studies, 47 estimates), and the distance between the implant platform and the first bone-to-implant contact (fBIC; 4 studies, 12 estimates). Each row represents outcome data for a study arm or intervention, including the number of implants evaluated, the mean, and the standard deviation. Study characteristics and candidate moderators are provided where applicable. The accompanying README describes the files, variables, units, and coding conventions. The review was registered in PROSPERO under CRD42023430289, and the literature search was last updated in June 2026.",
-      "license": "cc-by-4.0",
-      "access": "See original record",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "implant dentistry",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19"
     },
@@ -272,22 +240,6 @@
       "last_seen": "2026-10-19"
     },
     {
-      "id": "zenodo-10-5281-zenodo-23263369",
-      "title": "ADJUNCTIVE ANTIOXIDANT AND HOST-MODULATING STRATEGIES IN THE NON-SURGICAL TREATMENT OF PERIODONTITIS IN WORKERS OCCUPATIONALLY EXPOSED TO STYRENE: A NARRATIVE REVIEW AND PROPOSED TREATMENT ALGORITHM",
-      "source": "Zenodo",
-      "url": "https://zenodo.org/records/23263369",
-      "doi": "10.5281/zenodo.23263369",
-      "date": "2026-10-09",
-      "description": "Background. Workers employed in the production and processing of polystyrene and other styrene-based polymers are chronically exposed to styrene vapour. Styrene exposure causes systemic oxidative stress, which is also a central mechanism of periodontal tissue destruction. Standard non-surgical periodontal therapy may therefore yield a less predictable response in this population. Aim. To review the evidence on adjunctive therapies that target oxidative stress and the host inflammatory response, and to propose a stepwise treatment algorithm for periodontitis in styrene-exposed workers. Methods. A narrative review of PubMed/MEDLINE, Google Scholar and eLIBRARY.ru was performed, focusing on (i) oxidative and inflammatory effects of occupational styrene exposure, (ii) systematic reviews underpinning the European Federation of Periodontology (EFP) S3 guideline, and (iii) trials of antioxidant supplementation in periodontitis and in styrene-exposed workers. Results. Styrene-exposed workers s",
-      "license": "cc-by-4.0",
-      "access": "See original record",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "periodontal",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19"
-    },
-    {
       "id": "europe-pmc-europepmc-org-article-pmc-pmc13645594",
       "title": "Long-term dental care utilization trajectories as behavioral markers of cognitive aging: a 14-year national cohort study",
       "source": "Europe PMC",
@@ -320,38 +272,6 @@
       "last_seen": "2026-10-19"
     },
     {
-      "id": "zenodo-10-5281-zenodo-23243218",
-      "title": "IMPROVING THE TREATMENT OF MANDIBULAR INJURIES USING PATIENT-SPECIFIC FIXATION PLATES AND EVALUATING THEIR CLINICAL EFFECTIVENESS: A NARRATIVE REVIEW",
-      "source": "Zenodo",
-      "url": "https://zenodo.org/records/23243218",
-      "doi": "10.5281/zenodo.23243218",
-      "date": "2026-10-08",
-      "description": "Background: Mandibular injuries represent a significant challenge in oral and maxillofacial surgery because of the anatomical complexity of the lower jaw, its role in mastication and speech, and the potential consequences of inadequate fracture stabilization. Conventional osteosynthesis using titanium miniplates and reconstruction plates is widely practiced. However, anatomical variability and the need for intraoperative adaptation can complicate surgery. Patient-specific fixation plates, enabled by three-dimensional imaging and computer-aided design and manufacturing, offer an individualized alternative. Objective: To examine the theoretical foundations, biomechanical principles, technological characteristics, and potential clinical effectiveness of patient-specific fixation plates for mandibular injuries. Methods: This narrative review synthesizes published literature on mandibular fractures, virtual surgical planning, customized fixation systems, and clinical outcome assessment. It ",
-      "license": "cc-by-4.0",
-      "access": "See original record",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "maxillofacial",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19"
-    },
-    {
-      "id": "zenodo-10-5281-zenodo-23215193",
-      "title": "GENERAL OVERVIEW OF ODONTOGENIC INFECTIONS AND THEIR COMPLICATIONS (PHLEGMON, SEPSIS)",
-      "source": "Zenodo",
-      "url": "https://zenodo.org/records/23215193",
-      "doi": "10.5281/zenodo.23215193",
-      "date": "2026-10-07",
-      "description": "Odontogenic infections remain one of the most pressing problems in modern maxillofacial surgery and dentistry. Despite significant advances in diagnosis and treatment, these pathological conditions can progress rapidly and lead to severe outcomes, requiring ongoing analysis of modern approaches to their management. The last decade has seen a significant increase in the incidence of purulent-inflammatory diseases of the maxillofacial region, with phlegmons posing the greatest threat to the health and lives of patients.",
-      "license": "cc-by-4.0",
-      "access": "See original record",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "maxillofacial",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19"
-    },
-    {
       "id": "zenodo-10-5281-zenodo-23175514",
       "title": "COMPREHENSIVE PATHOGENETIC THERAPY OF COMBINED PERIODONTAL AND DENTAL HARD TISSUE PATHOLOGY IN PATIENTS WITH ENDEMIC IODINE DEFICIENCY",
       "source": "Zenodo",
@@ -363,7 +283,7 @@
       "access": "See original record",
       "source_type": "dataset",
       "status": "unverified",
-      "query": "periodontal",
+      "query": "maxillofacial",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19"
     },
@@ -448,22 +368,6 @@
       "last_seen": "2026-10-19"
     },
     {
-      "id": "europe-pmc-10-1088-2057-1976-aeaf5c",
-      "title": "External evaluation of a deep learning-based algorithm for automated lung tumor and esophagus segmentation on CBCT.",
-      "source": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42826729",
-      "doi": "10.1088/2057-1976/aeaf5c",
-      "date": "2026-10-02",
-      "description": "Biomed Phys Eng Express",
-      "license": "",
-      "access": "Publication; dataset access unconfirmed",
-      "source_type": "publication_lead",
-      "status": "unverified",
-      "query": "CBCT",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19"
-    },
-    {
       "id": "zenodo-10-5281-zenodo-23075510",
       "title": "MODERN APPROACHES TO THE TREATMENT OF DENTOFACIAL ANOMALIES USING BRACKET SYSTEMS",
       "source": "Zenodo",
@@ -475,7 +379,7 @@
       "access": "See original record",
       "source_type": "dataset",
       "status": "unverified",
-      "query": "periodontal",
+      "query": "orthodontic",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19"
     },
@@ -544,22 +448,6 @@
       "last_seen": "2026-10-19"
     },
     {
-      "id": "zenodo-10-5281-zenodo-22917303",
-      "title": "TEMPOROMANDIBULAR DISORDERS: DEVELOPMENTAL MECHANISMS, CLINICAL COURSE, DIAGNOSIS AND CONTEMPORARY MANAGEMENT — A NARRATIVE REVIEW OF CURRENT EVIDENCE",
-      "source": "Zenodo",
-      "url": "https://zenodo.org/records/22917303",
-      "doi": "10.5281/zenodo.22917303",
-      "date": "2026-09-23",
-      "description": "Background. Temporomandibular disorders (TMDs) comprise a heterogeneous group of painful and functional conditions of the temporomandibular joint (TMJ), the masticatory muscles and functionally associated orofacial structures, classified under ICD-10 code M26.6. Over the past two decades the conceptual model of TMD has shifted from an occlusion-centred mechanical paradigm to a multifactorial biopsychosocial framework. Aim. To synthesise current evidence on the aetiology and molecular pathogenesis of TMDs, to characterise the clinical course of their principal phenotypes, to appraise the performance of contemporary diagnostic instruments, and to systematise evidence-based treatment principles. Methods. A narrative review with a structured literature search was performed in PubMed/MEDLINE, Scopus and the Cochrane Library for records published between January 2005 and May 2026. Priority was given to systematic reviews, meta-analyses, network meta-analyses and clinical practice guidelines.",
-      "license": "cc-by-4.0",
-      "access": "See original record",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "temporomandibular",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19"
-    },
-    {
       "id": "hugging-face-huggingface-co-datasets-danglili-dental-panoramic-xray-yolo",
       "title": "DAnglili/dental-panoramic-xray-yolo",
       "source": "Hugging Face",
@@ -572,22 +460,6 @@
       "source_type": "dataset",
       "status": "unverified",
       "query": "dental",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19"
-    },
-    {
-      "id": "figshare-10-3389-fbioe-2026-1943704-s001",
-      "title": "Data Sheet 1_Graphene oxide-engineered dental implants: orchestrating antibacterial defense and osteo-immunomodulation for enhanced osseointegration.docx",
-      "source": "Figshare",
-      "url": "https://frontiersin.figshare.com/articles/dataset/Data_Sheet_1_Graphene_oxide-engineered_dental_implants_orchestrating_antibacterial_defense_and_osteo-immunomodulation_for_enhanced_osseointegration_docx/33970327",
-      "doi": "10.3389/fbioe.2026.1943704.s001",
-      "date": "2026-09-23",
-      "description": "",
-      "license": "",
-      "access": "See original record",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "implant dentistry",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19"
     },
@@ -684,22 +556,6 @@
       "source_type": "dataset",
       "status": "unverified",
       "query": "cephalometric",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-granitetrail-commercial-tooth-e8f597",
-      "title": "granitetrail/commercial-tooth-e8f597",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/granitetrail/commercial-tooth-e8f597",
-      "doi": "",
-      "date": "2026-09-11",
-      "description": "commercial-tooth-e8f597 Synthetic weather test data: 53 rows in data.csv. All values are randomly generated fictional examples, not real observations, products, or user activity. Intended only for CSV loading and pipeline tests; not suitable for scientific or business conclusions. Columns are sampled independently and do not model real-world correlations. Fields sample_id: random identifier for this generated sample. row_id: sequential row number starting at 1.… See the full description on the dataset page: https://huggingface.co/datasets/granitetrail/commercial-tooth-e8f597.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "tooth",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19"
     },
@@ -816,22 +672,6 @@
       "last_seen": "2026-10-19"
     },
     {
-      "id": "hugging-face-huggingface-co-datasets-julianhjr-cbct",
-      "title": "JulianHJR/cbct",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/JulianHJR/cbct",
-      "doi": "",
-      "date": "2026-08-20",
-      "description": "",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "CBCT",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19"
-    },
-    {
       "id": "hugging-face-huggingface-co-datasets-citevio-dental-ai-visibility-2026",
       "title": "citevio/dental-ai-visibility-2026",
       "source": "Hugging Face",
@@ -880,22 +720,6 @@
       "last_seen": "2026-10-19"
     },
     {
-      "id": "figshare-10-3389-fmed-2026-1911048-s001",
-      "title": "Supplementary file 1_Hard- and soft-tissue changes after adult Class II Division 1 orthodontic treatment: a retrospective CBCT-based observational study.docx",
-      "source": "Figshare",
-      "url": "https://frontiersin.figshare.com/articles/dataset/Supplementary_file_1_Hard-_and_soft-tissue_changes_after_adult_Class_II_Division_1_orthodontic_treatment_a_retrospective_CBCT-based_observational_study_docx/33171815",
-      "doi": "10.3389/fmed.2026.1911048.s001",
-      "date": "2026-08-06",
-      "description": "",
-      "license": "",
-      "access": "See original record",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "cephalometric",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19"
-    },
-    {
       "id": "zenodo-10-5281-zenodo-21501904",
       "title": "COMPREHENSIVE ANALYSIS OF FACIAL AESTHETIC CHANGES IN PATIENTS WITH DEEP BITE USING DIGITAL PHOTOGRAMMETRY AND CEPHALOMETRIC ANALYSIS",
       "source": "Zenodo",
@@ -924,22 +748,6 @@
       "source_type": "dataset",
       "status": "unverified",
       "query": "dental",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-julianhjr-cbct-f",
-      "title": "JulianHJR/cbct-f",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/JulianHJR/cbct-f",
-      "doi": "",
-      "date": "2026-07-06",
-      "description": "",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "CBCT",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19"
     },
@@ -1024,70 +832,6 @@
       "last_seen": "2026-10-19"
     },
     {
-      "id": "hugging-face-huggingface-co-datasets-electricsheepafrica-africa-ilo-ilr-cbct-noc-rt-collective-bargaining-coverage-rate",
-      "title": "electricsheepafrica/africa-ilo-ilr-cbct-noc-rt-collective-bargaining-coverage-rate",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/electricsheepafrica/africa-ilo-ilr-cbct-noc-rt-collective-bargaining-coverage-rate",
-      "doi": "",
-      "date": "2026-05-29",
-      "description": "Collective bargaining coverage rate (%) | Africa (ILOSTAT) | Africa (Electric Sheep Africa metadata inventory) Size category: n<1K - Formats: parquet - Sector: economics_finance - Engineered by Electric Sheep Africa TL;DR This dataset is part of the Electric Sheep Africa catalog on Hugging Face. It is indexed for African data discovery with standardized metadata, loading guidance, provenance notes, and analyst-oriented context. What This Dataset… See the full description on the dataset page: https://huggingface.co/datasets/electricsheepafrica/africa-ilo-ilr-cbct-noc-rt-collective-bargaining-coverage-rate.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "CBCT",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-electricsheepeurope-europe-ilo-ilr-cbct-noc-rt-collective-bargaining-coverage-rate",
-      "title": "electricsheepeurope/europe-ilo-ilr-cbct-noc-rt-collective-bargaining-coverage-rate",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/electricsheepeurope/europe-ilo-ilr-cbct-noc-rt-collective-bargaining-coverage-rate",
-      "doi": "",
-      "date": "2026-05-28",
-      "description": "Collective bargaining coverage rate (%) | Europe (ILOSTAT) 🇪🇺 435 observations · 38 Europe countries · 2000–2020 · Repackaged by Electric Sheep Europe TL;DR This dataset contains 435 observations of Industrial relations data across 38 Europe countries, spanning 2000–2020, covering 1 distinct indicators. About the source ILOSTAT is the ILO's central statistics database, the leading global source for labour statistics. It compiles indicators… See the full description on the dataset page: https://huggingface.co/datasets/electricsheepeurope/europe-ilo-ilr-cbct-noc-rt-collective-bargaining-coverage-rate.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "CBCT",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-electricsheepasia-asia-ilo-ilr-cbct-noc-rt-collective-bargaining-coverage-rate",
-      "title": "electricsheepasia/asia-ilo-ilr-cbct-noc-rt-collective-bargaining-coverage-rate",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/electricsheepasia/asia-ilo-ilr-cbct-noc-rt-collective-bargaining-coverage-rate",
-      "doi": "",
-      "date": "2026-05-28",
-      "description": "Collective bargaining coverage rate (%) | Asia (ILOSTAT) 🌏 143 observations · 18 Asia countries · 2000–2020 · Repackaged by Electric Sheep Asia TL;DR This dataset contains 143 observations of Industrial relations data across 18 Asia countries, spanning 2000–2020, covering 1 distinct indicators. About the source ILOSTAT is the ILO's central statistics database, the leading global source for labour statistics. It compiles indicators across… See the full description on the dataset page: https://huggingface.co/datasets/electricsheepasia/asia-ilo-ilr-cbct-noc-rt-collective-bargaining-coverage-rate.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "CBCT",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-medotter-pancreatic-ct-cbct-seg",
-      "title": "MedOtter/Pancreatic-CT-CBCT-SEG",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/MedOtter/Pancreatic-CT-CBCT-SEG",
-      "doi": "",
-      "date": "2026-05-07",
-      "description": "Pancreatic-CT-CBCT-SEG Breath-hold CT and cone-beam CT (CBCT) images with expert manual organ-at-risk (OAR) segmentations from radiation treatments of locally advanced pancreatic cancer at Memorial Sloan Kettering Cancer Center. Dataset Details Field Value Modality CT (planning, breath-hold, contrast-enhanced) + CBCT (kV, deep-inspiration breath-hold) Body part Upper abdomen — gastrointestinal organs-at-risk Task 3D multi-class segmentation (2… See the full description on the dataset page: https://huggingface.co/datasets/MedOtter/Pancreatic-CT-CBCT-SEG.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "CBCT",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19"
-    },
-    {
       "id": "hugging-face-huggingface-co-datasets-medotter-sts-3d-tooth",
       "title": "MedOtter/STS-3D-Tooth",
       "source": "Hugging Face",
@@ -1168,38 +912,6 @@
       "last_seen": "2026-10-19"
     },
     {
-      "id": "hugging-face-huggingface-co-datasets-hku-mip-cbct-projection",
-      "title": "hku-mip/cbct_projection",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/hku-mip/cbct_projection",
-      "doi": "",
-      "date": "2026-04-15",
-      "description": "This is a CBCT projection dataset. It consists of CBCT projection data of brain, head and neck, lungs, prostate, and pancreas cases. The projection data were acquired using 3 CBCT systems (XVI Elekta, Varian Truebeam, and IBA Toshiba). You can find Python scripts to download, read, and visualize the data in the following GitHub repository: https://github.com/MedIP-HKU/CBCT_projection. The repository also contains a Python script to reconstruct the CBCT images using Reconstruction Toolkit… See the full description on the dataset page: https://huggingface.co/datasets/hku-mip/cbct_projection.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "CBCT",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-leehoy-cbct",
-      "title": "leehoy/CBCT",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/leehoy/CBCT",
-      "doi": "",
-      "date": "2026-04-15",
-      "description": "",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "CBCT",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19"
-    },
-    {
       "id": "zenodo-10-5281-zenodo-19250122",
       "title": "EVALUATING THE RELATIONSHIP BETWEEN MANDIBULAR PLANE AND LOWER OCCLUSAL PLANE IN FULLY DENTULOUS PATIENTS",
       "source": "Zenodo",
@@ -1212,22 +924,6 @@
       "source_type": "dataset",
       "status": "unverified",
       "query": "cephalometric",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-19"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-redredmc012-pancreatic-ct-cbct-seg-liver",
-      "title": "RedRedMC012/Pancreatic-CT-CBCT-SEG-Liver",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/RedRedMC012/Pancreatic-CT-CBCT-SEG-Liver",
-      "doi": "",
-      "date": "2026-03-12",
-      "description": "",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "CBCT",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19"
     },
@@ -1328,7 +1024,7 @@
       "last_seen": "2026-10-19"
     }
   ],
-  "total_records": 81,
-  "new_this_scan": 81,
+  "total_records": 62,
+  "new_this_scan": 0,
   "note": "Automatically discovered public metadata only. Every record is unverified; Europe PMC records are publication leads, not confirmed datasets. Sources may fail or be rate-limited. Not an exhaustive index."
 }
