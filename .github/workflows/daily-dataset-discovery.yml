@@ -1,6 +1,10 @@
 name: Daily dental dataset discovery
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/daily-dataset-discovery.yml"
+      - "scripts/discover_datasets.py"
   schedule:
     # 06:00 UTC = 09:00 Cairo standard time; GitHub schedule may run late.
     - cron: "0 6 * * *"
