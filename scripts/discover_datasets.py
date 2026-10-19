@@ -37,6 +37,25 @@ DENTAL = re.compile(
 )
 DATA_HINT = re.compile(r"\b(?:dataset|data\s+set|database|benchmark|corpus|cohort|image\s+collection|annotation|segmentation|open\s+data|repository|data\s+descriptor)\b", re.I)
 STRIP_HTML = re.compile(r"<[^>]*>")
+# High-precision exclusions to avoid irrelevant "CBCT" acronym hits, animal
+# microwear data, journal article masquerading as a dataset, and appendices.
+STRONG_DENTAL = re.compile(
+    r"\b(?:dental|dentistry|dentition|dentofacial|odontogenic|tooth|teeth|"
+    r"caries|periodont\w*|endodont\w*|orthodont\w*|maxillofacial|mandib\w*|"
+    r"maxilla(?:ry)?|craniofacial|cephalometric|temporomandibular|intraoral|"
+    r"oral[\s-]+(?:cancer|cavity|lesion|mucosa|patholog\w*|health|surgery|"
+    r"medicine|squamous)|oscc|occlus\w*|prosthodont\w*|periapical|"
+    r"gingiv\w*|implant[\s-]+dent)\b", re.I
+)
+EXCLUDED_TOPICS = re.compile(
+    r"\b(?:carnassial|canids?|veterinary|equine|paleontolog\w*|"
+    r"microwear|pancreatic|collective[\s-]+bargaining|nonhuman|"
+    r"commercial-tooth)\b", re.I
+)
+EXCLUDED_NONDATA = re.compile(
+    r"\b(?:narrative review|systematic review and meta-analysis|"
+    r"general overview|literature review|review of current evidence)\b", re.I
+)
 NOW = dt.datetime.now(dt.timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
 TODAY = NOW[:10]
 HEADERS = {"User-Agent": "DentalMaxillofacialDatasetAtlas/1.0 (academic metadata discovery; github.com/dr-lamia/dental-datasets-hub)", "Accept": "application/json"}
@@ -101,6 +120,16 @@ def make_item(source, title, url, date="", description="", doi="", license_text=
     url = link(url)
     doi = doi_norm(doi)
     if not title or not url or not DENTAL.search(title + " " + description):
+        return None
+    if EXCLUDED_TOPICS.search(title + " " + description):
+        return None
+    if EXCLUDED_NONDATA.search(title):
+        return None
+    if re.search(r"\.(?:docx|pptx|pdf)$", title, re.I) or re.search(r"^supplementary file\s*\d", title, re.I):
+        return None
+    # CBCT alone is ambiguous outside dentistry (e.g. radiotherapy or an
+    # unrelated abbreviation), so require accompanying dental terms.
+    if not STRONG_DENTAL.search(title + " " + description):
         return None
     # Papers are discovery leads only, even when title says "dataset".
     if kind == "publication_lead" and not DATA_HINT.search(title + " " + description):
@@ -191,7 +220,21 @@ def load_prior():
     try:
         with OUTPUT.open(encoding="utf8") as f:
             obj = json.load(f)
-        return obj.get("records", [])
+        result = []
+        for r in obj.get("records", []):
+            if not isinstance(r, dict):
+                continue
+            title = r.get("title", "")
+            description = r.get("description", "")
+            # Filter old data as well, otherwise incorrect matches linger forever.
+            if not title or EXCLUDED_TOPICS.search(title + " " + description) or EXCLUDED_NONDATA.search(title):
+                continue
+            if re.search(r"\.(?:docx|pptx|pdf)$", title, re.I) or re.search(r"^supplementary file\s*\d", title, re.I):
+                continue
+            if not STRONG_DENTAL.search(title + " " + description):
+                continue
+            result.append(r)
+        return result
     except (ValueError, OSError, AttributeError):
         return []
 
