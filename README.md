@@ -2,6 +2,15 @@
 
 A curated, specialty-organized directory of dental and oral-health dataset metadata for research, teaching, and tool development. This repository stores descriptions and source links; it does not redistribute patient images or dataset files.
 
+## Website: dental and maxillofacial dataset atlas
+
+- **[Interactive website preview](https://id-preview--75a91ea4-9e71-48ee-8219-b694a6e78983.lovable.app):** curated catalogue, speciality filters, compare, review queue, and **Discover** page.
+- **[Browse automatically discovered leads](catalog/auto_discovery.json):** public metadata from Zenodo, Figshare, Hugging Face, and Europe PMC (publication leads). This is separate from the human-curated catalogues.
+- **[Discovery script](scripts/discover_datasets.py):** nightly query with clinical relevance filtering, DOI/URL/title deduplication, first/last-seen dates, and per-source status.
+- **[Daily automation](.github/workflows/daily-dataset-discovery.yml):** GitHub Actions refreshes auto_discovery.json every day. Discovery does **not** mean verified or downloadable; publication leads are not datasets. This automated feed does **not** promote rows into curated CSVs.
+- The website also provides a manual **Search the web now** option using external public APIs. Some platforms (TCIA, PhysioNet, NIDCR, Kaggle, Mendeley Data, Grand Challenge, Dryad, institutional repositories) currently have manual research links rather than an automated ingestion connection. Coverage is not exhaustive.
+- Records are only promoted into curated catalogues after primary-source, reuse-rights, and clinical relevance review. Always cite the original dataset source.
+
 ## Start here
 
 - **[Catalogue index](catalog/README.md):** browse all catalogues, record counts, and how to find entries.
