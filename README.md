@@ -12,12 +12,12 @@ A curated, specialty-organized directory of dental and oral-health dataset metad
 
 | Catalogue | Records | Main focus |
 |---|---:|---|
-| [Dental imaging](catalog/dental_imaging.csv) | 11 | Radiographs, CBCT, annotations, and segmentation |
+| [Dental imaging](catalog/dental_imaging.csv) | 12 | Radiographs, CBCT, annotations, and segmentation |
 | [Oral medicine](catalog/oral_medicine.csv) | 25 | Oral medicine, mucosal disease, pathology, and cancer |
 | [Digital dentistry](catalog/digital_dentistry.csv) | 11 | Intraoral scans, virtual patients, facial motion, and jaw tracking |
 | [Clinical reasoning benchmarks](catalog/clinical_reasoning_benchmarks.csv) | 5 | Dental QA and multimodal or controlled-access benchmarks |
 
-These are 52 catalogue records, not necessarily 52 unique datasets; some resources may overlap. Use the [catalogue index](catalog/README.md) for details.
+These are 53 catalogue records, not necessarily 53 unique datasets; some resources may overlap. Use the [catalogue index](catalog/README.md) for details.
 
 ## How the repository is organized
 
@@ -43,7 +43,7 @@ Every Sunday, GitHub Actions checks catalogue structure and source links, then o
 
 ## Initial coverage
 
-The oral-medicine (25 rows) and digital-dentistry (11 rows) catalogues were imported from existing repositories. The dental-imaging (11 rows) and clinical-reasoning benchmark (5 rows) catalogues were seeded from dataset, project, and publication pages checked on 2026-10-03. Imported records were not all independently rechecked; see [SOURCES.md](SOURCES.md) and each record's verification note.
+The oral-medicine (25 rows) and digital-dentistry (11 rows) catalogues were imported from existing repositories. The dental-imaging catalogue was seeded with 11 rows on 2026-10-03 and expanded to 12 with an intraoral caries image dataset on 2026-10-19. The clinical-reasoning benchmark (5 rows) catalogue was seeded on 2026-10-03. Imported records were not all independently rechecked; see [SOURCES.md](SOURCES.md) and each record's verification note.
 
 - [Original oral-medicine catalogue](https://github.com/dr-lamia/oral-medicine-ai-datasets)
 - [Original dental virtual-patient catalogue](https://github.com/dr-lamia/dental-virtual-patient-datasets)
