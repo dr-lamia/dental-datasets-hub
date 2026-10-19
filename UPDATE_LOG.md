@@ -1,5 +1,12 @@
 # Update log
 
+## 2026-10-19 — Intraoral caries dataset added
+
+- Added the 6,313-image annotated intraoral caries dataset from the official Zenodo record (https://zenodo.org/records/14827784), including its primary published description (https://doi.org/10.1038/s41597-025-05647-9).
+- Recorded annotation formats (YOLO, COCO, Pascal VOC, and LabelMe) and explicitly marked licence terms as requiring verification.
+- Dental-imaging catalogue now has 12 rows; the overall curated catalogue has 53 records, which are not necessarily unique datasets.
+
+
 ## 2026-10-03 — Repository created
 
 - Created the public `dr-lamia/dental-datasets-hub` repository.
