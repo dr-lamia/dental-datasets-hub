@@ -6,12 +6,12 @@ Use this page as the entry point to the repository's dataset records. The CSVs g
 
 | Catalogue | Records | Main contents | File |
 |---|---:|---|---|
-| Dental imaging | 11 | Panoramic and periapical radiographs, CBCT, annotations, and segmentation | [dental_imaging.csv](dental_imaging.csv) |
+| Dental imaging | 12 | Panoramic and periapical radiographs, CBCT, annotations, and segmentation | [dental_imaging.csv](dental_imaging.csv) |
 | Oral medicine | 25 | Oral mucosal disease, oral pathology, and oral cancer resources | [oral_medicine.csv](oral_medicine.csv) |
 | Digital dentistry | 11 | Intraoral scans, virtual-patient data, facial motion, and jaw tracking | [digital_dentistry.csv](digital_dentistry.csv) |
 | Clinical reasoning benchmarks | 5 | Dental QA, multimodal benchmarks, and controlled-access clinical sets | [clinical_reasoning_benchmarks.csv](clinical_reasoning_benchmarks.csv) |
 
-The 52 rows are catalogue records, not 52 confirmed unique datasets. Check identifiers, source URLs, and verification notes before counting or combining records.
+The 53 rows are catalogue records, not 53 confirmed unique datasets. Check identifiers, source URLs, and verification notes before counting or combining records.
 
 ## Find records
 
