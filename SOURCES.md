@@ -48,3 +48,13 @@ A maintainer should:
 - Record what a count measures: patients, cases, images, scans, slides, or annotations.
 - Prefer patient/case-level information and note when it is unavailable.
 - Record the date in ISO format. A live link check only confirms that a web server responds; it does not verify dataset contents or reuse rights.
+
+## Verified source additions: 27 October 2026
+
+- [DentalOPG-1550 v2](https://data.mendeley.com/datasets/rtt726b26d/2): Mendeley Data v2 (2026-09-29), 1,550 panoramics, 14 categories, 10,141 objects including 38 labelled periodontitis. CC BY 4.0 on record. The v1 and v2 releases represent one dataset, not independent cohorts.
+- [Comprehensive visual index of carious lesions](https://data.mendeley.com/datasets/236tk3fcc7/1): Mendeley Data v1 (2026-08-14), 6,377 images, eight-view subject protocol reported but patient count not established. CC BY 4.0 on record; no patient-level split verified.
+- [DFD-Net tooth crack dataset](https://zenodo.org/records/20439973): Zenodo v1 (2026-05-29), 753 images, train/validation/test ZIPs listed. Licence not visible in source view; do not infer permission.
+- [Supportive Periodontal Therapy v1.0.0](https://physionet.org/content/supportive-periodontal-therapy/1.0.0/): PhysioNet (2026-10-05), 883 patients and 11,842 visits, CC BY 4.0, patient-linked longitudinal outcomes. The underlying historical cohort was used in a 2019 paper, so this is a new **public release**, not new clinical recruitment.
+- [Dedicated periodontics catalogue update](https://github.com/dr-lamia/periodontics-datasets): five new metadata entries (SPT, 16S microbiome, two GEO scRNA accessions and controlled OMIX). Not all are open-download datasets; OMIX files are currently unavailable. Cross-repository entries and shared assay cohorts must not be double counted.
+
+Source pages, stated licence and release/version metadata were checked, but actual file contents and patient IDs were not downloaded or independently audited. Searches included Zenodo, Figshare, Hugging Face, Europe PMC/PubMed, PhysioNet, TCIA, NIDCR, Grand Challenge, Mendeley, Dryad, Kaggle, GEO/SRA/BioProject, ENA, OSF, Dataverse and institutional portals; this is targeted discovery, not exhaustive crawling. The Atlas preview is not publicly published and its rendering could not be verified from the accessible browser; repository commits alone do not prove website synchronization.

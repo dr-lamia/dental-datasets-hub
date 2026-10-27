@@ -15,7 +15,7 @@ This map is a crosswalk, not a separate dataset list. Follow the links to the CS
 |---|---|---|
 | Oral and maxillofacial radiology | [Dental imaging](dental_imaging.csv), [benchmarks](clinical_reasoning_benchmarks.csv) | Panoramic and periapical radiographs, CBCT, annotations, segmentation, and panoramic VQA |
 | Endodontics | [Dental imaging](dental_imaging.csv), [benchmarks](clinical_reasoning_benchmarks.csv) | Periapical images and benchmark questions; dedicated endodontic cohorts need further discovery |
-| Periodontology | [Dental imaging](dental_imaging.csv), [benchmarks](clinical_reasoning_benchmarks.csv) | Panoramic periodontal annotations and broad dental benchmarks; coverage is limited |
+| Periodontology | [Dental imaging](dental_imaging.csv), [clinical decision support](clinical_reasoning_benchmarks.csv), [dedicated periodontics catalogue](https://github.com/dr-lamia/periodontics-datasets) | Bone-loss imaging, ultrasound, periodontal maintenance (883 patients), single-cell, microbiome and restricted omics; dedicated repository has 29 metadata records, not independent cohorts |
 | Oral surgery and implant planning | [Dental imaging](dental_imaging.csv), [Digital dentistry](digital_dentistry.csv) | CBCT anatomy, missing-tooth annotations, and multimodal resources; no implant-only dataset is verified in this snapshot |
 | Pediatric dentistry | [Benchmarks](clinical_reasoning_benchmarks.csv) | Broad dental knowledge benchmarks may include pediatric questions; no dedicated pediatric patient-imaging cohort is verified |
 
@@ -24,7 +24,7 @@ This map is a crosswalk, not a separate dataset list. Follow the links to the CS
 | Specialty | Catalogue links | Coverage and gaps |
 |---|---|---|
 | Prosthodontics | [Digital dentistry](digital_dentistry.csv), [Dental imaging](dental_imaging.csv) | Intraoral scans, paired CBCT/oral scans, and jaw-motion resources; access terms vary |
-| Restorative and operative dentistry | [Dental imaging](dental_imaging.csv), [benchmarks](clinical_reasoning_benchmarks.csv) | Panoramic disease and dental-structure labels; dedicated caries cohorts need further curation |
+| Restorative and operative dentistry | [Dental imaging](dental_imaging.csv), [benchmarks](clinical_reasoning_benchmarks.csv) | Panoramic disease labels, a 6,377-image caries photographic deposit, and a 753-image tooth-crack dataset; check patient grouping and licence |
 | Orthodontics | [Digital dentistry](digital_dentistry.csv) | General dental scans and facial resources may support methods development; orthodontic labels and cohorts need further curation |
 | Digital dentistry and dental materials | [Digital dentistry](digital_dentistry.csv) | Intraoral scans, facial/4D data used in virtual-patient work, and jaw tracking; material-specific datasets need further curation |
 

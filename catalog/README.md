@@ -6,18 +6,22 @@ Use this page as the entry point to the repository's dataset records. The CSVs g
 
 | Catalogue | Records | Main contents | File |
 |---|---:|---|---|
-| Dental imaging | 16 | Panoramic and periapical radiographs, CBCT, annotations, and segmentation | [dental_imaging.csv](dental_imaging.csv) |
+| Dental imaging | 19 | Panoramic and periapical radiographs, CBCT, annotations, and segmentation | [dental_imaging.csv](dental_imaging.csv) |
 | Oral medicine | 25 | Oral mucosal disease, oral pathology, and oral cancer resources | [oral_medicine.csv](oral_medicine.csv) |
 | Digital dentistry | 13 | Intraoral scans, virtual-patient data, facial motion, and jaw tracking | [digital_dentistry.csv](digital_dentistry.csv) |
-| Clinical reasoning benchmarks | 5 | Dental QA, multimodal benchmarks, and controlled-access clinical sets | [clinical_reasoning_benchmarks.csv](clinical_reasoning_benchmarks.csv) |
+| Clinical reasoning benchmarks | 6 | Dental QA, multimodal benchmarks, and controlled-access clinical sets | [clinical_reasoning_benchmarks.csv](clinical_reasoning_benchmarks.csv) |
 
-The 59 rows are catalogue records, not 53 confirmed unique datasets. Check identifiers, source URLs, and verification notes before counting or combining records.
+The 63 rows are catalogue records, not 63 confirmed unique datasets. Check identifiers, source URLs, and verification notes before counting or combining records.
 
 ## Find records
 
 - **By specialty:** open the [specialty map](specialties.md), which links to every relevant catalogue and calls out known coverage gaps.
 - **By data type or research use:** choose a catalogue from the table above.
 - **By access, licence, or verification status:** inspect the corresponding CSV columns and read the [schema guide](SCHEMA.md).
+
+## Dedicated periodontics catalogue
+
+The separately maintained [periodontics-datasets repository](https://github.com/dr-lamia/periodontics-datasets) contains **29 records** spanning photographs, radiographs, ultrasound, longitudinal outcomes, transcriptomics and microbiome. These are **not** included in the 63-row general catalogue total. The SPT PhysioNet record is deliberately cross-linked here in the clinical decision-support CSV; it represents the **same 883-patient cohort**, not an additional independent cohort. Other periodontics-specific omics records remain in the dedicated catalogue pending a dedicated Atlas category.
 
 ## Discovery queue
 

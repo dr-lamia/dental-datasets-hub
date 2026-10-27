@@ -21,12 +21,16 @@ A curated, specialty-organized directory of dental and oral-health dataset metad
 
 | Catalogue | Records | Main focus |
 |---|---:|---|
-| [Dental imaging](catalog/dental_imaging.csv) | 12 | Radiographs, CBCT, annotations, and segmentation |
+| [Dental imaging](catalog/dental_imaging.csv) | 19 | Radiographs, CBCT, annotations, and segmentation |
 | [Oral medicine](catalog/oral_medicine.csv) | 25 | Oral medicine, mucosal disease, pathology, and cancer |
-| [Digital dentistry](catalog/digital_dentistry.csv) | 11 | Intraoral scans, virtual patients, facial motion, and jaw tracking |
-| [Clinical reasoning benchmarks](catalog/clinical_reasoning_benchmarks.csv) | 5 | Dental QA and multimodal or controlled-access benchmarks |
+| [Digital dentistry](catalog/digital_dentistry.csv) | 13 | Intraoral scans, virtual patients, facial motion, and jaw tracking |
+| [Clinical reasoning benchmarks](catalog/clinical_reasoning_benchmarks.csv) | 6 | Dental QA and multimodal or controlled-access benchmarks |
 
-These are 53 catalogue records, not necessarily 53 unique datasets; some resources may overlap. Use the [catalogue index](catalog/README.md) for details.
+These are 63 catalogue records, not necessarily 63 unique datasets; some resources may overlap. Use the [catalogue index](catalog/README.md) for details.
+
+## Periodontics specialty inventory
+
+The [dedicated periodontics-datasets repository](https://github.com/dr-lamia/periodontics-datasets) has **29 source-checked metadata records** as of 2026-10-27, including a newly released 883-patient longitudinal periodontal maintenance cohort, 16S microbiome data, GEO single-cell series and a restricted OMIX atlas. It is maintained separately, and its 29 rows are **not added** to this hub's 63-row count. The PhysioNet maintenance cohort is cross-listed here once as a clinical decision-support record; cross-repository references do not create new patients.
 
 ## How the repository is organized
 
