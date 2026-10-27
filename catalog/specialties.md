@@ -15,7 +15,7 @@ This map is a crosswalk, not a separate dataset list. Follow the links to the CS
 |---|---|---|
 | Oral and maxillofacial radiology | [Dental imaging](dental_imaging.csv), [benchmarks](clinical_reasoning_benchmarks.csv) | Panoramic and periapical radiographs, CBCT, annotations, segmentation, and panoramic VQA |
 | Endodontics | [Dental imaging](dental_imaging.csv), [benchmarks](clinical_reasoning_benchmarks.csv) | Periapical images and benchmark questions; dedicated endodontic cohorts need further discovery |
-| Periodontology | [Dental imaging](dental_imaging.csv), [clinical decision support](clinical_reasoning_benchmarks.csv), [dedicated periodontics catalogue](https://github.com/dr-lamia/periodontics-datasets) | Bone-loss imaging, ultrasound, periodontal maintenance (883 patients), single-cell, microbiome and restricted omics; dedicated repository has 29 metadata records, not independent cohorts |
+| Periodontology | [Dental imaging](dental_imaging.csv), [clinical decision support](clinical_reasoning_benchmarks.csv), [dedicated periodontics catalogue](https://github.com/dr-lamia/periodontics-datasets) | Bone-loss imaging, ultrasound, periodontal maintenance (883 patients), single-cell, microbiome and restricted omics; dedicated repository has 30 metadata records, not independent cohorts |
 | Oral surgery and implant planning | [Dental imaging](dental_imaging.csv), [Digital dentistry](digital_dentistry.csv) | CBCT anatomy, missing-tooth annotations, and multimodal resources; no implant-only dataset is verified in this snapshot |
 | Pediatric dentistry | [Benchmarks](clinical_reasoning_benchmarks.csv) | Broad dental knowledge benchmarks may include pediatric questions; no dedicated pediatric patient-imaging cohort is verified |
 

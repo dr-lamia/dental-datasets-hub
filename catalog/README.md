@@ -21,7 +21,7 @@ The 63 rows are catalogue records, not 63 confirmed unique datasets. Check ident
 
 ## Dedicated periodontics catalogue
 
-The separately maintained [periodontics-datasets repository](https://github.com/dr-lamia/periodontics-datasets) contains **29 records** spanning photographs, radiographs, ultrasound, longitudinal outcomes, transcriptomics and microbiome. These are **not** included in the 63-row general catalogue total. The SPT PhysioNet record is deliberately cross-linked here in the clinical decision-support CSV; it represents the **same 883-patient cohort**, not an additional independent cohort. Other periodontics-specific omics records remain in the dedicated catalogue pending a dedicated Atlas category.
+The separately maintained [periodontics-datasets repository](https://github.com/dr-lamia/periodontics-datasets) contains **30 records** spanning photographs, radiographs, ultrasound, longitudinal outcomes, transcriptomics and microbiome. These are **not** included in the 63-row general catalogue total. The SPT PhysioNet record is deliberately cross-linked here in the clinical decision-support CSV; it represents the **same 883-patient cohort**, not an additional independent cohort. Other periodontics-specific omics records remain in the dedicated catalogue pending a dedicated Atlas category.
 
 ## Discovery queue
 
