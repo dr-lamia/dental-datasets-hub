@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T12:11:16Z",
+  "updated_at": "2026-10-31T11:43:32Z",
   "sources": [
     "Zenodo",
     "Figshare",
@@ -12,14 +12,14 @@
       "query_count": 10,
       "successful_queries": 10,
       "failed_queries": 0,
-      "retrieved_candidate_matches": 30
+      "retrieved_candidate_matches": 35
     },
     {
       "source": "Figshare",
       "query_count": 10,
       "successful_queries": 10,
       "failed_queries": 0,
-      "retrieved_candidate_matches": 28
+      "retrieved_candidate_matches": 29
     },
     {
       "source": "Hugging Face",
@@ -38,6 +38,86 @@
   ],
   "records": [
     {
+      "id": "zenodo-10-5281-zenodo-23835545",
+      "title": "EFFICACY OF CHLORHEXIDINE MOUTHRINSE IN THE CONTROL OF DENTAL PLAQUE AND GINGIVITIS: A PRISMA-GUIDED SYSTEMATIC REVIEW OF SYSTEMATIC REVIEWS",
+      "source": "Zenodo",
+      "url": "https://zenodo.org/records/23835545",
+      "doi": "10.5281/zenodo.23835545",
+      "date": "2026-10-31",
+      "description": "Background: Chlorhexidine (CHX) has been used as an adjunct to mechanical plaque control since the early 1970s, yet the size and clinical relevance of its effect, and its trade-offs against alternative antiseptics, remain debated. Objective: To synthesise evidence from published systematic reviews on the efficacy and adverse effects of CHX mouthrinses for dental plaque and gingivitis. Methods: A systematic review of systematic reviews was conducted following PRISMA 2020 principles. Targeted searches (October 2026) identified systematic reviews of randomised controlled trials (RCTs) evaluating CHX mouthrinses. Eight reviews published between 2006 and 2025 were included. Effect estimates and risk-of-bias judgements were extracted as reported, and a narrative synthesis was performed; no pooling was undertaken because of overlap among primary trials. Results: CHX mouthrinse consistently reduced plaque: the Cochrane review reported a standardised mean difference (SMD) of −1.45 (95% CI −1.90",
+      "license": "cc-by-4.0",
+      "access": "See original record",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "tooth",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    {
+      "id": "zenodo-10-5281-zenodo-23833323",
+      "title": "COMPARATIVE CHARACTERISTICS OF TEMPORARY FILLING MATERIALS IN MODERN DENTISTRY AND CRITERIA FOR THEIR SELECTION",
+      "source": "Zenodo",
+      "url": "https://zenodo.org/records/23833323",
+      "doi": "10.5281/zenodo.23833323",
+      "date": "2026-10-31",
+      "description": "This article provides a comparative analysis of the physicochemical properties, advantages, disadvantages, and clinical efficacy of temporary filling and dressing materials used in therapeutic and endodontic dental practice. Through the use of organized tables and statistical data, the effectiveness of temporary sealing and the criteria for selecting materials for various clinical scenarios are examined in detail.",
+      "license": "cc-by-4.0",
+      "access": "See original record",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "implant dentistry",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    {
+      "id": "figshare-10-6084-m9-figshare-34873983-v1",
+      "title": "Dental measurements of Palaeotragus",
+      "source": "Figshare",
+      "url": "https://figshare.com/articles/dataset/Dental_measurements_of_i_Palaeotragus_i_/34873983",
+      "doi": "10.6084/m9.figshare.34873983.v1",
+      "date": "2026-10-31",
+      "description": "",
+      "license": "",
+      "access": "See original record",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "dental",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    {
+      "id": "zenodo-10-5281-zenodo-23831183",
+      "title": "Data and code for \"Fish-tooth U-Pb geochronology and geochemistry document the Miocene REY super-enrichment in the Pigafetta Basin\"",
+      "source": "Zenodo",
+      "url": "https://zenodo.org/records/23831183",
+      "doi": "10.5281/zenodo.23831183",
+      "date": "2026-10-31",
+      "description": "",
+      "license": "cc-by-4.0",
+      "access": "See original record",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "tooth",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    {
+      "id": "zenodo-10-5281-zenodo-23808226",
+      "title": "A dual-source intraoral image dataset for robust dental crack detection in complex real-world and home-care scenarios",
+      "source": "Zenodo",
+      "url": "https://zenodo.org/records/23808226",
+      "doi": "10.5281/zenodo.23808226",
+      "date": "2026-10-30",
+      "description": "[Version 2.0 Release Notes] In this significant update, the dataset has been rigorously restructured to eliminate potential data leakage and enhance usability, directly addressing feedback from expert reviewers: 1. Data Leakage Prevention: A new `Patient_ID` attribute has been introduced in the metadata. The dataset is now explicitly grouped by `Patient_ID` to ensure strict separation between training and evaluation splits. 2. File Naming Consistency:All image and label files (YOLO, VOC, COCO) have been strictly synchronized with zero-padding formats (e.g., `0001.jpg`), fully aligning with the `Metadata.csv`. 3. Annotation Standardization: YOLO bounding box configurations have been standardized (class ID set to 0), and any extremely marginal out-of-bounds coordinates have been mathematically constrained within the strict [0.0, 1.0] interval. An essential `data.yaml` has also been added. Dental cracks represent a prevalent and elusive clinical challenge, often leading to severe tooth fr",
+      "license": "cc-by-4.0",
+      "access": "See original record",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "tooth",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    {
       "id": "zenodo-10-5281-zenodo-23794249",
       "title": "Efficacy of Ozone Therapy in the Management of Initial (Non-Cavitated) Dental Caries: A PRISMA-Guided Systematic Review",
       "source": "Zenodo",
@@ -51,7 +131,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "zenodo-10-5281-zenodo-23780930",
@@ -67,7 +147,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "zenodo-10-5281-zenodo-23768740",
@@ -83,7 +163,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "zenodo-10-5281-zenodo-23754437",
@@ -99,7 +179,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "zenodo-10-5281-zenodo-23760117",
@@ -115,7 +195,7 @@
       "status": "unverified",
       "query": "implant dentistry",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "zenodo-10-5281-zenodo-23758682",
@@ -131,7 +211,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-emad2001-dental-implant-brand-benchmark",
@@ -147,7 +227,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-1371-journal-pone-0360426-t003",
@@ -163,7 +243,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-1371-journal-pone-0360426-t002",
@@ -179,7 +259,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-1371-journal-pcbi-1014888-t009",
@@ -195,7 +275,7 @@
       "status": "unverified",
       "query": "oral cancer",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-1371-journal-pcbi-1014888-t005",
@@ -211,7 +291,7 @@
       "status": "unverified",
       "query": "oral cancer",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-1371-journal-pcbi-1014888-t004",
@@ -227,7 +307,7 @@
       "status": "unverified",
       "query": "oral cancer",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-1371-journal-pcbi-1014888-t002",
@@ -243,7 +323,7 @@
       "status": "unverified",
       "query": "oral cancer",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-1371-journal-pcbi-1014888-t001",
@@ -259,7 +339,7 @@
       "status": "unverified",
       "query": "oral cancer",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-1371-journal-pcbi-1014888-s007",
@@ -275,7 +355,7 @@
       "status": "unverified",
       "query": "oral cancer",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-3389-fimmu-2026-1991235-s001",
@@ -291,7 +371,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-3389-fimmu-2026-1991235-s002",
@@ -307,7 +387,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-3389-fimmu-2026-1991235-s003",
@@ -323,7 +403,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-6084-m9-figshare-32081208-v2",
@@ -339,7 +419,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "zenodo-10-5281-zenodo-23697773",
@@ -355,7 +435,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "zenodo-10-5281-zenodo-23696961",
@@ -371,7 +451,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "zenodo-10-5281-zenodo-23696862",
@@ -387,7 +467,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-rotgarsett-dental-ai-visibility-four-platform",
@@ -403,7 +483,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34790067-v1",
@@ -419,7 +499,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "zenodo-10-5281-zenodo-23665579",
@@ -435,7 +515,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34753425-v1",
@@ -451,7 +531,7 @@
       "status": "unverified",
       "query": "orthodontic",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "zenodo-10-5281-zenodo-23610466",
@@ -467,7 +547,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-3389-fcimb-2026-1951083-s001",
@@ -483,7 +563,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-3389-fcimb-2026-1951083-s003",
@@ -499,7 +579,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-3389-fcimb-2026-1951083-s002",
@@ -515,7 +595,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34229877-v1",
@@ -531,7 +611,7 @@
       "status": "unverified",
       "query": "orthodontic",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-6084-m9-figshare-31239889-v3",
@@ -547,23 +627,23 @@
       "status": "unverified",
       "query": "orthodontic",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
-      "id": "europe-pmc-10-1007-s10278-026-02393-1",
-      "title": "Automated Multi-class Segmentation of Mandibular Odontogenic Cysts and the Mandibular Canal on CBCT Images Using a Hybrid Deep Learning Framework.",
+      "id": "europe-pmc-10-3390-diagnostics16203395",
+      "title": "AI-Based Automated Segmentation of the Mandibular Cortex and Mental Foramen for Radiomorphometric Measurement on Panoramic Radiographs: A Feasibility Study.",
       "source": "Europe PMC",
-      "url": "https://europepmc.org/article/MED/42897423",
-      "doi": "10.1007/s10278-026-02393-1",
+      "url": "https://europepmc.org/article/MED/42938234",
+      "doi": "10.3390/diagnostics16203395",
       "date": "2026-10-19",
-      "description": "J Imaging Inform Med",
+      "description": "Diagnostics (Basel)",
       "license": "",
       "access": "Publication; dataset access unconfirmed",
       "source_type": "publication_lead",
       "status": "unverified",
-      "query": "CBCT",
-      "first_seen": "2026-10-21",
-      "last_seen": "2026-10-30"
+      "query": "implant dentistry",
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-jyunkai-dental-ai-eval",
@@ -579,7 +659,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "zenodo-10-5281-zenodo-23382041",
@@ -595,7 +675,7 @@
       "status": "unverified",
       "query": "temporomandibular",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34477509-v1",
@@ -611,7 +691,7 @@
       "status": "unverified",
       "query": "implant dentistry",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-emad2001-dental-implant-brand-classification",
@@ -627,7 +707,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "zenodo-10-5281-zenodo-23278333",
@@ -643,7 +723,7 @@
       "status": "unverified",
       "query": "orthodontic",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "zenodo-10-5281-zenodo-23257597",
@@ -659,7 +739,7 @@
       "status": "unverified",
       "query": "orthodontic",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "zenodo-10-5281-zenodo-23268538",
@@ -675,7 +755,7 @@
       "status": "unverified",
       "query": "CBCT",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "zenodo-10-5281-zenodo-23234106",
@@ -691,7 +771,7 @@
       "status": "unverified",
       "query": "orthodontic",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-tirandazdylan-pediatric-dental-disease",
@@ -707,7 +787,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34069407-v1",
@@ -723,7 +803,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "zenodo-10-5281-zenodo-23138199",
@@ -739,7 +819,7 @@
       "status": "unverified",
       "query": "orthodontic",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-national-digital-qld-public-dental-waiting-lists",
@@ -755,7 +835,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "zenodo-10-5281-zenodo-23079229",
@@ -771,7 +851,7 @@
       "status": "unverified",
       "query": "orthodontic",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-danglili-dental-panoramic-xray-yolo",
@@ -787,7 +867,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-hetusuki-dental-panoramic-xray-yolo",
@@ -803,7 +883,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-1371-journal-pone-0358261-t005",
@@ -819,7 +899,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-1371-journal-pone-0358261-t004",
@@ -835,7 +915,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-1371-journal-pone-0358261-t002",
@@ -851,7 +931,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-1371-journal-pone-0358261-s001",
@@ -867,7 +947,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "zenodo-10-5281-zenodo-22641950",
@@ -883,7 +963,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-samin-yadollahi-26-panoramic-x-ray-tooth",
@@ -899,7 +979,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-yiz0307-dentalvoice",
@@ -915,7 +995,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-tresor2k-us-medicaid-dental-payments-by-state-2018-2024",
@@ -931,7 +1011,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-kellection-sonata-dental-dataset",
@@ -947,7 +1027,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-tresor2k-us-dental-insurance-acceptance-by-state-2026",
@@ -963,7 +1043,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-tresor2k-us-dental-deserts-atlas-2026",
@@ -979,7 +1059,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "figshare-10-6084-m9-figshare-33191649-v1",
@@ -995,7 +1075,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-oralsurgery-dental-implant-surgery-sample",
@@ -1011,7 +1091,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "zenodo-10-5281-zenodo-21501904",
@@ -1027,7 +1107,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-nichevault-nichevault-uk-dental-practices",
@@ -1043,7 +1123,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-haseebdev-hipaa-dental-tickets",
@@ -1059,7 +1139,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-alliecat035-tooth",
@@ -1075,7 +1155,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-tresor2k-us-dental-cost-by-city-2026",
@@ -1091,7 +1171,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-tresor2k-us-dental-procedure-cost-2026",
@@ -1107,7 +1187,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-tresor2k-us-dental-cost-index-2026",
@@ -1123,7 +1203,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-medotter-sts-3d-tooth",
@@ -1139,7 +1219,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-medotter-sts-2d-tooth",
@@ -1155,7 +1235,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-electricsheepafrica-africa-who-dental-prosthetic-technicians",
@@ -1171,7 +1251,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-emad2001-delr-cephalometric-convnextv2",
@@ -1187,7 +1267,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "zenodo-10-5281-zenodo-19250122",
@@ -1203,7 +1283,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-electricsheepafrica-africa-synth-cancer-oral-cancer-head-neck-africa-all",
@@ -1219,7 +1299,7 @@
       "status": "unverified",
       "query": "oral cancer",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-infobayai-xray-opg-dental-radiology-reports-without-findings-dataset",
@@ -1235,7 +1315,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-electricsheepafrica-oral-health-dental-disease",
@@ -1251,7 +1331,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-praharshita2007-oral-cancer",
@@ -1267,7 +1347,7 @@
       "status": "unverified",
       "query": "oral cancer",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-wildstash-periodontal-reasoning-40k",
@@ -1283,7 +1363,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-docty-oral-cancer",
@@ -1299,6 +1379,22 @@
       "status": "unverified",
       "query": "oral cancer",
       "first_seen": "2026-10-19",
+      "last_seen": "2026-10-31"
+    },
+    {
+      "id": "europe-pmc-10-1007-s10278-026-02393-1",
+      "title": "Automated Multi-class Segmentation of Mandibular Odontogenic Cysts and the Mandibular Canal on CBCT Images Using a Hybrid Deep Learning Framework.",
+      "source": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/42897423",
+      "doi": "10.1007/s10278-026-02393-1",
+      "date": "2026-10-19",
+      "description": "J Imaging Inform Med",
+      "license": "",
+      "access": "Publication; dataset access unconfirmed",
+      "source_type": "publication_lead",
+      "status": "unverified",
+      "query": "CBCT",
+      "first_seen": "2026-10-21",
       "last_seen": "2026-10-30"
     },
     {
@@ -2102,7 +2198,7 @@
       "last_seen": "2026-10-19"
     }
   ],
-  "total_records": 129,
-  "new_this_scan": 4,
+  "total_records": 135,
+  "new_this_scan": 6,
   "note": "Automatically discovered public metadata only. Every record is unverified; Europe PMC records are publication leads, not confirmed datasets. Sources may fail or be rate-limited. Not an exhaustive index."
 }
