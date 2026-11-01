@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T11:43:32Z",
+  "updated_at": "2026-11-01T12:43:27Z",
   "sources": [
     "Zenodo",
     "Figshare",
@@ -12,7 +12,7 @@
       "query_count": 10,
       "successful_queries": 10,
       "failed_queries": 0,
-      "retrieved_candidate_matches": 35
+      "retrieved_candidate_matches": 39
     },
     {
       "source": "Figshare",
@@ -33,10 +33,58 @@
       "query_count": 10,
       "successful_queries": 10,
       "failed_queries": 0,
-      "retrieved_candidate_matches": 1
+      "retrieved_candidate_matches": 7
     }
   ],
   "records": [
+    {
+      "id": "zenodo-10-5281-zenodo-23854484",
+      "title": "MODERN APPROACHES TO THE EARLY DIAGNOSIS, PREVENTION, AND MINIMALLY INVASIVE TREATMENT OF DENTAL CARIES IN ADOLESCENTS AND YOUNG ADULTS: CLINICAL EFFECTIVENESS, RISK FACTORS, AND LONG-TERM ORAL HEALTH OUTCOMES",
+      "source": "Zenodo",
+      "url": "https://zenodo.org/records/23854484",
+      "doi": "10.5281/zenodo.23854484",
+      "date": "2026-11-01",
+      "description": "Dental caries remains the most widespread noncommunicable disease in the world, and adolescence and young adulthood are periods of particular vulnerability because newly erupted permanent teeth, dietary independence, orthodontic treatment and changing hygiene habits coincide. This article reviews current evidence on the early detection of carious lesions, on preventive measures with proven effectiveness, and on minimally invasive methods of managing lesions in this age group. The review draws on global burden estimates, Cochrane systematic reviews on fluoride toothpaste and fissure sealants, international consensus recommendations on terminology and carious tissue removal, and meta-analytic evidence on resin infiltration. The analysis shows that most lesions in young people can be detected at a non-cavitated stage, that fluoride toothpaste and sealants have the strongest preventive evidence, and that selective removal of carious tissue and micro-invasive techniques preserve tooth struc",
+      "license": "cc-by-4.0",
+      "access": "See original record",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "implant dentistry",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "zenodo-10-5281-zenodo-23842046",
+      "title": "EFFICACY OF HYDROXYAPATITE IN THE REMINERALIZATION OF INITIAL CARIES LESIONS: EVIDENCE FROM SYSTEMATIC REVIEWS",
+      "source": "Zenodo",
+      "url": "https://zenodo.org/records/23842046",
+      "doi": "10.5281/zenodo.23842046",
+      "date": "2026-10-31",
+      "description": "Initial caries lesions (white spot lesions) are the earliest clinically detectable stage of enamel caries: subsurface demineralization beneath a relatively intact surface layer that is potentially reversible [1]. Such lesions show increased pore volume and reduced mineral content, which alters light scattering and produces the characteristic opaque appearance [2]. Fluoride-containing agents remain the principal remineralizing strategy [3], but fluoride-free alternatives attract growing interest. Synthetic hydroxyapatite (HAP), including nano-sized (nHA) and zinc-carbonate-hydroxyapatite forms, is chemically similar to enamel apatite and is proposed to adsorb to the tooth surface, fill interprismatic spaces and supply calcium and phosphate [8].",
+      "license": "cc-by-4.0",
+      "access": "See original record",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "tooth",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "europe-pmc-europepmc-org-article-pmc-pmc13719469",
+      "title": "Comparison of piezosurgery vs. conventional bone chisel for extraction of impacted mandibular third molars with root–canal intimacy: a retrospective cohort study with CBCT-based preoperative planning",
+      "source": "Europe PMC",
+      "url": "https://europepmc.org/article/PMC/PMC13719469",
+      "doi": "",
+      "date": "2026-10-31",
+      "description": "Front Med (Lausanne)",
+      "license": "",
+      "access": "Publication; dataset access unconfirmed",
+      "source_type": "publication_lead",
+      "status": "unverified",
+      "query": "temporomandibular",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01"
+    },
     {
       "id": "zenodo-10-5281-zenodo-23835545",
       "title": "EFFICACY OF CHLORHEXIDINE MOUTHRINSE IN THE CONTROL OF DENTAL PLAQUE AND GINGIVITIS: A PRISMA-GUIDED SYSTEMATIC REVIEW OF SYSTEMATIC REVIEWS",
@@ -51,7 +99,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "zenodo-10-5281-zenodo-23833323",
@@ -67,7 +115,7 @@
       "status": "unverified",
       "query": "implant dentistry",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34873983-v1",
@@ -83,7 +131,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "zenodo-10-5281-zenodo-23831183",
@@ -99,7 +147,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "zenodo-10-5281-zenodo-23808226",
@@ -115,7 +163,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "zenodo-10-5281-zenodo-23794249",
@@ -129,9 +177,9 @@
       "access": "See original record",
       "source_type": "dataset",
       "status": "unverified",
-      "query": "tooth",
+      "query": "implant dentistry",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "zenodo-10-5281-zenodo-23780930",
@@ -147,7 +195,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "zenodo-10-5281-zenodo-23768740",
@@ -161,9 +209,9 @@
       "access": "See original record",
       "source_type": "dataset",
       "status": "unverified",
-      "query": "tooth",
+      "query": "implant dentistry",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "zenodo-10-5281-zenodo-23754437",
@@ -177,9 +225,9 @@
       "access": "See original record",
       "source_type": "dataset",
       "status": "unverified",
-      "query": "tooth",
+      "query": "implant dentistry",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "zenodo-10-5281-zenodo-23760117",
@@ -195,7 +243,7 @@
       "status": "unverified",
       "query": "implant dentistry",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "zenodo-10-5281-zenodo-23758682",
@@ -211,7 +259,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-emad2001-dental-implant-brand-benchmark",
@@ -227,7 +275,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "figshare-10-1371-journal-pone-0360426-t003",
@@ -243,7 +291,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "figshare-10-1371-journal-pone-0360426-t002",
@@ -259,7 +307,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "figshare-10-1371-journal-pcbi-1014888-t009",
@@ -275,7 +323,7 @@
       "status": "unverified",
       "query": "oral cancer",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "figshare-10-1371-journal-pcbi-1014888-t005",
@@ -291,7 +339,7 @@
       "status": "unverified",
       "query": "oral cancer",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "figshare-10-1371-journal-pcbi-1014888-t004",
@@ -307,7 +355,7 @@
       "status": "unverified",
       "query": "oral cancer",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "figshare-10-1371-journal-pcbi-1014888-t002",
@@ -323,7 +371,7 @@
       "status": "unverified",
       "query": "oral cancer",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "figshare-10-1371-journal-pcbi-1014888-t001",
@@ -339,7 +387,7 @@
       "status": "unverified",
       "query": "oral cancer",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "figshare-10-1371-journal-pcbi-1014888-s007",
@@ -355,7 +403,7 @@
       "status": "unverified",
       "query": "oral cancer",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "figshare-10-3389-fimmu-2026-1991235-s001",
@@ -371,7 +419,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "figshare-10-3389-fimmu-2026-1991235-s002",
@@ -387,7 +435,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "figshare-10-3389-fimmu-2026-1991235-s003",
@@ -403,7 +451,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "figshare-10-6084-m9-figshare-32081208-v2",
@@ -419,7 +467,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "zenodo-10-5281-zenodo-23697773",
@@ -435,7 +483,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "zenodo-10-5281-zenodo-23696961",
@@ -451,7 +499,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "zenodo-10-5281-zenodo-23696862",
@@ -467,7 +515,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-rotgarsett-dental-ai-visibility-four-platform",
@@ -483,7 +531,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34790067-v1",
@@ -499,7 +547,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "zenodo-10-5281-zenodo-23665579",
@@ -515,7 +563,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34753425-v1",
@@ -531,7 +579,7 @@
       "status": "unverified",
       "query": "orthodontic",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "zenodo-10-5281-zenodo-23610466",
@@ -547,7 +595,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "figshare-10-3389-fcimb-2026-1951083-s001",
@@ -563,7 +611,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "figshare-10-3389-fcimb-2026-1951083-s003",
@@ -579,7 +627,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "figshare-10-3389-fcimb-2026-1951083-s002",
@@ -595,7 +643,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34229877-v1",
@@ -611,7 +659,7 @@
       "status": "unverified",
       "query": "orthodontic",
       "first_seen": "2026-10-22",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "figshare-10-6084-m9-figshare-31239889-v3",
@@ -627,7 +675,7 @@
       "status": "unverified",
       "query": "orthodontic",
       "first_seen": "2026-10-21",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "europe-pmc-10-3390-diagnostics16203395",
@@ -643,7 +691,7 @@
       "status": "unverified",
       "query": "implant dentistry",
       "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-jyunkai-dental-ai-eval",
@@ -659,7 +707,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "zenodo-10-5281-zenodo-23382041",
@@ -675,7 +723,7 @@
       "status": "unverified",
       "query": "temporomandibular",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34477509-v1",
@@ -691,7 +739,7 @@
       "status": "unverified",
       "query": "implant dentistry",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-emad2001-dental-implant-brand-classification",
@@ -707,7 +755,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "zenodo-10-5281-zenodo-23278333",
@@ -723,7 +771,7 @@
       "status": "unverified",
       "query": "orthodontic",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "zenodo-10-5281-zenodo-23257597",
@@ -739,7 +787,7 @@
       "status": "unverified",
       "query": "orthodontic",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "zenodo-10-5281-zenodo-23268538",
@@ -755,7 +803,7 @@
       "status": "unverified",
       "query": "CBCT",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "zenodo-10-5281-zenodo-23234106",
@@ -771,7 +819,7 @@
       "status": "unverified",
       "query": "orthodontic",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-tirandazdylan-pediatric-dental-disease",
@@ -787,7 +835,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34069407-v1",
@@ -803,7 +851,567 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-national-digital-qld-public-dental-waiting-lists",
+      "title": "National-Digital/qld-public-dental-waiting-lists",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/National-Digital/qld-public-dental-waiting-lists",
+      "doi": "",
+      "date": "2026-10-03",
+      "description": "Public dental waiting lists by clinic, Queensland, latest quarter Adults waiting for public dental care and treated from the lists at each Queensland Health dental clinic in the newest quarter, by waiting list and months waited. This is a copy of the 2026-03-30 version of this dataset on publicdata.au, where it has 428 rows and 19 fields. The same version is kept at https://publicdata.au/d/qld-public-dental-waiting-lists/v/2026-03-30/ in 9 formats, with every earlier version and… See the full description on the dataset page: https://huggingface.co/datasets/National-Digital/qld-public-dental-waiting-lists.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "dental",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-danglili-dental-panoramic-xray-yolo",
+      "title": "DAnglili/dental-panoramic-xray-yolo",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/DAnglili/dental-panoramic-xray-yolo",
+      "doi": "",
+      "date": "2026-09-23",
+      "description": "Dental Panoramic X-Ray Detection Dataset (YOLO Format) Combined dataset for dental pathology detection on panoramic radiographs, in YOLO format. Built for training liodon-ai/dental-panoramic-detector. Classes ID Name Description 0 caries Dental caries and deep caries 1 periapical_lesion Periapical / apical periodontitis 2 impacted_tooth Impacted and wisdom teeth Dataset Sources Source Images Boxes License DENTEX 724 3… See the full description on the dataset page: https://huggingface.co/datasets/DAnglili/dental-panoramic-xray-yolo.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "dental",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-hetusuki-dental-panoramic-xray-yolo",
+      "title": "hetusuki/dental-panoramic-xray-yolo",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/hetusuki/dental-panoramic-xray-yolo",
+      "doi": "",
+      "date": "2026-09-16",
+      "description": "Dental Panoramic X-Ray Detection Dataset (YOLO Format) Combined dataset for dental pathology detection on panoramic radiographs, in YOLO format. Built for training liodon-ai/dental-panoramic-detector. Classes ID Name Description 0 caries Dental caries and deep caries 1 periapical_lesion Periapical / apical periodontitis 2 impacted_tooth Impacted and wisdom teeth Dataset Sources Source Images Boxes License DENTEX 724 3… See the full description on the dataset page: https://huggingface.co/datasets/hetusuki/dental-panoramic-xray-yolo.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "dental",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "figshare-10-1371-journal-pone-0358261-t005",
+      "title": "Tooth-specific signed IA-PAMD and correlations with apical bone dimensions.",
+      "source": "Figshare",
+      "url": "https://plos.figshare.com/articles/dataset/_p_Tooth-specific_signed_IA-PAMD_and_correlations_with_apical_bone_dimensions_p_/33812524",
+      "doi": "10.1371/journal.pone.0358261.t005",
+      "date": "2026-09-15",
+      "description": "",
+      "license": "",
+      "access": "See original record",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "cephalometric",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "figshare-10-1371-journal-pone-0358261-t004",
+      "title": "Tooth-level frequency of alveolar bone measurements below 0.5 and 1.0 mm.",
+      "source": "Figshare",
+      "url": "https://plos.figshare.com/articles/dataset/_p_Tooth-level_frequency_of_alveolar_bone_measurements_below_0_5_and_1_0_mm_p_/33812518",
+      "doi": "10.1371/journal.pone.0358261.t004",
+      "date": "2026-09-15",
+      "description": "",
+      "license": "",
+      "access": "See original record",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "cephalometric",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "figshare-10-1371-journal-pone-0358261-t002",
+      "title": "Tooth-specific alveolar bone thickness.",
+      "source": "Figshare",
+      "url": "https://plos.figshare.com/articles/dataset/_p_Tooth-specific_alveolar_bone_thickness_p_/33812509",
+      "doi": "10.1371/journal.pone.0358261.t002",
+      "date": "2026-09-15",
+      "description": "",
+      "license": "",
+      "access": "See original record",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "cephalometric",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "figshare-10-1371-journal-pone-0358261-s001",
+      "title": "De-identified tooth-level analysis dataset.",
+      "source": "Figshare",
+      "url": "https://plos.figshare.com/articles/dataset/_p_De-identified_tooth-level_analysis_dataset_p_/33812485",
+      "doi": "10.1371/journal.pone.0358261.s001",
+      "date": "2026-09-15",
+      "description": "",
+      "license": "",
+      "access": "See original record",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "cephalometric",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "zenodo-10-5281-zenodo-22641950",
+      "title": "ARTIFICIAL INTELLIGENCE IN ORTHODONTICS: DIAGNOSIS, DISPUTE RESOLUTION, AND OUTCOME PREDICTION",
+      "source": "Zenodo",
+      "url": "https://zenodo.org/records/22641950",
+      "doi": "10.5281/zenodo.22641950",
+      "date": "2026-09-07",
+      "description": "Artificial intelligence (AI) is increasingly influencing orthodontic diagnosis, treatment planning, clinical communication, and prediction of treatment outcomes. Machine-learning and deep-learning systems can analyze radiographs, photographs, three-dimensional scans, and clinical records to identify anatomical landmarks, classify malocclusions, detect impacted teeth, estimate skeletal relationships, and forecast changes associated with orthodontic treatment. This article reviews the role of AI in orthodontics with particular attention to three applications: diagnosis, dispute resolution, and outcome prediction. A narrative review was conducted using recent scientific literature, systematic reviews, clinical studies, and international guidance on AI governance in healthcare. The available evidence suggests that AI systems can achieve moderate to high diagnostic performance, although reported accuracy varies substantially according to the task, dataset, image quality, reference standard,",
+      "license": "cc-by-4.0",
+      "access": "See original record",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "cephalometric",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-samin-yadollahi-26-panoramic-x-ray-tooth",
+      "title": "samin-yadollahi-26/panoramic_x-ray_tooth",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/samin-yadollahi-26/panoramic_x-ray_tooth",
+      "doi": "",
+      "date": "2026-09-05",
+      "description": "Panoramic X-ray Tooth Dataset Description This dataset, curated by Humans in the Loop, features over 500 panoramic dental X-ray images, complete with segmentation masks and annotation files. Designed to support dental research, machine learning model development, and automated dental diagnostics, the dataset showcases a variety of dental conditions and tooth structures. The high-quality segmentation masks, produced through expert human annotation, enhance the… See the full description on the dataset page: https://huggingface.co/datasets/samin-yadollahi-26/panoramic_x-ray_tooth.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "tooth",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-yiz0307-dentalvoice",
+      "title": "YiZ0307/DentalVoice",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/YiZ0307/DentalVoice",
+      "doi": "",
+      "date": "2026-08-27",
+      "description": "DentalVoice: A Chinese Dental Doctor-Patient Dialogue Dataset Dataset Description DentalVoice is a Chinese dental doctor-patient dialogue dataset built from real clinical cases. Each case originates from an authentic dental clinic record, undergoes RAG-based retrieval of clinical interviewing guidelines, and is then expanded into a multi-turn consultation dialogue script by a large language model, followed by TTS-based speech synthesis. The dataset covers common dental procedures including… See the full description on the dataset page: https://huggingface.co/datasets/YiZ0307/DentalVoice.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "dental",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-tresor2k-us-medicaid-dental-payments-by-state-2018-2024",
+      "title": "tresor2k/us-medicaid-dental-payments-by-state-2018-2024",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/tresor2k/us-medicaid-dental-payments-by-state-2018-2024",
+      "doi": "",
+      "date": "2026-08-24",
+      "description": "US Medicaid Dental Payments by CDT Code and State (2018-2024) What Medicaid actually paid dentists per claim line, by CDT procedure code (61 codes), by U.S. state (50 states + DC + national) and by period (2018-2024 yearly, plus a pooled 2023-2024 period). Derived from the HHS T-MSIS Medicaid Provider Spending file (v2026-02-09, 25.3M CDT cells, $47.6B paid) joined to NPPES (Aug 2026). Key national findings Only 20.0% of active U.S. dentists (53,926 of 269,978) billed Medicaid… See the full description on the dataset page: https://huggingface.co/datasets/tresor2k/us-medicaid-dental-payments-by-state-2018-2024.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "dental",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-kellection-sonata-dental-dataset",
+      "title": "Kellection/sonata-dental-dataset",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/Kellection/sonata-dental-dataset",
+      "doi": "",
+      "date": "2026-08-24",
+      "description": "Sonata Dental Dataset 牙科疾病检测与分类数据集（基于 Sonata 采集数据整理）。 ⚠️ 原始完整版（含 unknown 类）已备份，未随本仓库发布。 目录结构 Sonata/ ├── image/ # 检测图像（1645 张） ├── label/ # 检测标注（labelme JSON，1645 个，与 image 一一对应） └── Periodontal_Disease/ # 牙周病分类子集（按类别分目录） ├── gingival_diseases/ # 1103 张 ├── non_periodontal_disease/ # 591 张 └── periodontitis/ # 661 张 1. 检测子集（Detection） 图像：image/，1645… See the full description on the dataset page: https://huggingface.co/datasets/Kellection/sonata-dental-dataset.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "dental",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-tresor2k-us-dental-insurance-acceptance-by-state-2026",
+      "title": "tresor2k/us-dental-insurance-acceptance-by-state-2026",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/tresor2k/us-dental-insurance-acceptance-by-state-2026",
+      "doi": "",
+      "date": "2026-08-22",
+      "description": "US Dental Insurance Acceptance by State 2026 One row per US state plus the District of Columbia: 51 rows, 14 columns. For each state it brings together, in a single table, numbers that are usually scattered across several federal and association sources: share of dentists accepting Medicaid patients (pct_dentists_medicaid), with the state's rank adult Medicaid dental benefit level (medicaid_adult_dental_level: extensive / limited / emergency_only / none) and the annual cap when… See the full description on the dataset page: https://huggingface.co/datasets/tresor2k/us-dental-insurance-acceptance-by-state-2026.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "dental",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-tresor2k-us-dental-deserts-atlas-2026",
+      "title": "tresor2k/us-dental-deserts-atlas-2026",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/tresor2k/us-dental-deserts-atlas-2026",
+      "doi": "",
+      "date": "2026-08-20",
+      "description": "US Dental Deserts Atlas 2026 (county-level) County-level atlas of dental care access and affordability in the United States. One row per US county: 3,144 rows, 21 columns. It joins four things that are usually only available separately: HRSA dental HPSA designations (geographic, population and facility types, plus max score), snapshot of 30 July 2026 Median household income (Census ACS 5-year 2024, table B19013) State-level dental prices (restorative cost index and average… See the full description on the dataset page: https://huggingface.co/datasets/tresor2k/us-dental-deserts-atlas-2026.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "dental",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "figshare-10-6084-m9-figshare-33191649-v1",
+      "title": "Cephalometric Analysis - Arab and German Data",
+      "source": "Figshare",
+      "url": "https://figshare.com/articles/dataset/Cephalometric_Analysis_-_Arab_and_German_Data/33191649",
+      "doi": "10.6084/m9.figshare.33191649.v1",
+      "date": "2026-08-09",
+      "description": "",
+      "license": "",
+      "access": "See original record",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "cephalometric",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-oralsurgery-dental-implant-surgery-sample",
+      "title": "OralSurgery/dental-implant-surgery-sample",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/OralSurgery/dental-implant-surgery-sample",
+      "doi": "",
+      "date": "2026-08-07",
+      "description": "Dental Implant Surgery — Multimodal Annotated Video (Full-Mouth Three-Camera Sample) A public preview of one complete full-mouth implant rehabilitation — both jaws in a single session, six implants in the maxilla and six in the mandible with multi-unit abutments — recorded by three synchronised cameras in a working operating room, with the surgeons' own words aligned to the picture and every keyframe annotated across six layers (L0–L5). This repository is a showcase slice of… See the full description on the dataset page: https://huggingface.co/datasets/OralSurgery/dental-implant-surgery-sample.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "dental",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "zenodo-10-5281-zenodo-21501904",
+      "title": "COMPREHENSIVE ANALYSIS OF FACIAL AESTHETIC CHANGES IN PATIENTS WITH DEEP BITE USING DIGITAL PHOTOGRAMMETRY AND CEPHALOMETRIC ANALYSIS",
+      "source": "Zenodo",
+      "url": "https://zenodo.org/records/21501904",
+      "doi": "10.5281/zenodo.21501904",
+      "date": "2026-07-23",
+      "description": "Background. Deep bite is one of the most common vertical dentofacial anomalies and is accompanied not only by impaired occlusal relationships but also by pronounced changes in facial aesthetics, temporomandibular joint function, and masticatory muscles. Modern digital diagnostic methods make it possible to objectively assess changes in the facial soft tissues and the relationship between aesthetic parameters and cephalometric measurements. Objective. To perform a comprehensive analysis of facial aesthetic changes in patients with deep bite based on digital photogrammetry and cephalometric examination.",
+      "license": "cc-by-4.0",
+      "access": "See original record",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "cephalometric",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-nichevault-nichevault-uk-dental-practices",
+      "title": "NicheVault/nichevault-uk-dental-practices",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/NicheVault/nichevault-uk-dental-practices",
+      "doi": "",
+      "date": "2026-07-08",
+      "description": "NicheVault UK Dental Practices — Free Sample Dataset 15 active UK companies registered under SIC 86230 — Dental practice activities — collected from Companies House. This public sample lets you inspect the formatting, provenance and exact 14-column schema used in the paid NicheVault dataset. Dataset contents 15 company records Active on the Companies House register at time of collection. Some records may carry an additional status qualifier, shown in… See the full description on the dataset page: https://huggingface.co/datasets/NicheVault/nichevault-uk-dental-practices.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "dental",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "zenodo-10-5281-zenodo-21218346",
+      "title": "Quantitative results of the analysis of functional and histological parameters corresponding to the work \"Comprehensive histological, histochemical and immunohistochemical characterization of the human pediatric foreskin",
+      "source": "Zenodo",
+      "url": "https://zenodo.org/records/21218346",
+      "doi": "10.5281/zenodo.21218346",
+      "date": "2026-07-06",
+      "description": "This dataset corresponds to the quantitative data generated in the work entitled \"Comprehensive histological, histochemical and immunohistochemical characterization of the human pediatric foreskin reveals region-specific features relevant for tissue engineering”. The human foreskin (HF) is a complex structure containing an external foreskin layer (EFS), an internal foreskin layer (IFS) and an intermediate connective tissue (ICT). Although HF is commonly used as a cell source for research and tissue engineering, its structure and composition remain incompletely understood. In this study, we performed a comprehensive histological, histochemical characterization of HF as compared with skin, oral mucosa and urethral tissues. Results showed that EFS was histologically similar to human skin, with abundant rete ridges and papillae and skin appendages, whereas IFS was smoother and lacked glands. Both the EFS and IFS contained abundant vessels and nerves. The epithelial layer of EFS and IFS exp",
+      "license": "cc-by-4.0",
+      "access": "See original record",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "oral cancer",
+      "first_seen": "2026-11-01",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-haseebdev-hipaa-dental-tickets",
+      "title": "HaseebDev/hipaa_dental_tickets",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/HaseebDev/hipaa_dental_tickets",
+      "doi": "",
+      "date": "2026-07-03",
+      "description": "Hipaa_Dental_Tickets (Synthetic B2B Dataset Preview) Add me on Discord: xomohappy for access support, delivery questions, or product questions about this premade commercial dataset. This is a premium, privacy-compliant, industry-safe synthetic dataset simulating HIPAA Dental Office Support Tickets for B2B applications. About this Dataset This dataset is generated programmatically using large language models combined with a strict data curation and validation… See the full description on the dataset page: https://huggingface.co/datasets/HaseebDev/hipaa_dental_tickets.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "dental",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-alliecat035-tooth",
+      "title": "Alliecat035/tooth",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/Alliecat035/tooth",
+      "doi": "",
+      "date": "2026-06-24",
+      "description": "",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "tooth",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-tresor2k-us-dental-cost-by-city-2026",
+      "title": "tresor2k/us-dental-cost-by-city-2026",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/tresor2k/us-dental-cost-by-city-2026",
+      "doi": "",
+      "date": "2026-06-23",
+      "description": "⚠️ Version 2.0.0 — correction notice (13 July 2026) Version 1 of this dataset published per-state figures for braces and porcelain veneers that were not observed. An internal audit established that they were derived from the single-implant series by fixed multipliers (0.80× and 0.25×, constant to four decimal places across all 51 jurisdictions). Every procedure therefore shared the same state ranking, and the \"composite\" cost index reduced algebraically to a function of the… See the full description on the dataset page: https://huggingface.co/datasets/tresor2k/us-dental-cost-by-city-2026.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "dental",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-tresor2k-us-dental-procedure-cost-2026",
+      "title": "tresor2k/us-dental-procedure-cost-2026",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/tresor2k/us-dental-procedure-cost-2026",
+      "doi": "",
+      "date": "2026-06-23",
+      "description": "⚠️ Version 2.0.0 — correction notice (13 July 2026) Version 1 of this dataset published per-state figures for braces and porcelain veneers that were not observed. An internal audit established that they were derived from the single-implant series by fixed multipliers (0.80× and 0.25×, constant to four decimal places across all 51 jurisdictions). Every procedure therefore shared the same state ranking, and the \"composite\" cost index reduced algebraically to a function of the… See the full description on the dataset page: https://huggingface.co/datasets/tresor2k/us-dental-procedure-cost-2026.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "dental",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-tresor2k-us-dental-cost-index-2026",
+      "title": "tresor2k/us-dental-cost-index-2026",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/tresor2k/us-dental-cost-index-2026",
+      "doi": "",
+      "date": "2026-06-03",
+      "description": "⚠️ Version 2.0.0 — correction notice (13 July 2026) Version 1 of this dataset published per-state figures for braces and porcelain veneers that were not observed. An internal audit established that they were derived from the single-implant series by fixed multipliers (0.80× and 0.25×, constant to four decimal places across all 51 jurisdictions). Every procedure therefore shared the same state ranking, and the \"composite\" cost index reduced algebraically to a function of the… See the full description on the dataset page: https://huggingface.co/datasets/tresor2k/us-dental-cost-index-2026.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "dental",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-medotter-sts-3d-tooth",
+      "title": "MedOtter/STS-3D-Tooth",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/MedOtter/STS-3D-Tooth",
+      "doi": "",
+      "date": "2026-05-05",
+      "description": "STS-3D-Tooth The 3D Cone-Beam CT (CBCT) subset of the STS (Semi-supervised Teeth Segmentation) multi-modal dental dataset, as released in Wang et al., Scientific Data 12, 117 (2025) and used in the MICCAI 2023/2024 STS Challenges. The companion 2D panoramic X-ray subset is hosted at Angelou0516/STS-2D-Tooth. Dataset Summary Field Details Modality Cone-Beam CT (CBCT), NIfTI (.nii.gz) Body Part Teeth (32 permanent teeth, FDI numbering) Volumes 371… See the full description on the dataset page: https://huggingface.co/datasets/MedOtter/STS-3D-Tooth.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "tooth",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-medotter-sts-2d-tooth",
+      "title": "MedOtter/STS-2D-Tooth",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/MedOtter/STS-2D-Tooth",
+      "doi": "",
+      "date": "2026-05-05",
+      "description": "STS-2D-Tooth The 2D panoramic dental X-ray subset of the STS (Semi-supervised Teeth Segmentation) multi-modal dataset, as released in Wang et al., Scientific Data 12, 117 (2025) and used in the MICCAI 2023 STS Challenge. Composition 4,000 panoramic X-ray images (PNG, 640x320, 3-channel grayscale-as-RGB) split across two demographic subsets: Subset Total Labeled Unlabeled A-PXI (adult) 3,500 850 2,650 C-PXI (child) 500 50 450 Total 4,000 900 3,100… See the full description on the dataset page: https://huggingface.co/datasets/MedOtter/STS-2D-Tooth.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "tooth",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-electricsheepafrica-africa-who-dental-prosthetic-technicians",
+      "title": "electricsheepafrica/africa-who-dental-prosthetic-technicians",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/electricsheepafrica/africa-who-dental-prosthetic-technicians",
+      "doi": "",
+      "date": "2026-04-30",
+      "description": "Africa — WHO GHO: Dental Prosthetic Technicians (number) | Africa (World Health Organization) Size category: n<1K - Formats: parquet - Sector: health - Engineered by Electric Sheep Africa TL;DR This dataset is part of the Electric Sheep Africa catalog on Hugging Face. It is indexed for African data discovery with standardized metadata, loading guidance, provenance notes, and analyst-oriented context. What This Dataset Covers Health datasets help… See the full description on the dataset page: https://huggingface.co/datasets/electricsheepafrica/africa-who-dental-prosthetic-technicians.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "dental",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-emad2001-delr-cephalometric-convnextv2",
+      "title": "emad2001/DeLR-Cephalometric-ConvNeXtV2",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/emad2001/DeLR-Cephalometric-ConvNeXtV2",
+      "doi": "",
+      "date": "2026-04-27",
+      "description": "DeLR – Dual-encoder Landmark Regression A PyTorch implementation of the DeLR (Dual-encoder Landmark Regression) architecture for cephalometric landmark detection, evaluated on three public datasets: Aariz Cephalograms — 1000 images, 29 annotated landmarks (700 / 150 / 150 train/valid/test). CephAdoAdu Dataset — 700 images, 10 landmarks, mixed adolescent + adult cohort (the public release contains the official 400-image training part and 300-image validation part; the 300… See the full description on the dataset page: https://huggingface.co/datasets/emad2001/DeLR-Cephalometric-ConvNeXtV2.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "cephalometric",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "zenodo-10-5281-zenodo-19250122",
+      "title": "EVALUATING THE RELATIONSHIP BETWEEN MANDIBULAR PLANE AND LOWER OCCLUSAL PLANE IN FULLY DENTULOUS PATIENTS",
+      "source": "Zenodo",
+      "url": "https://zenodo.org/records/19250122",
+      "doi": "10.5281/zenodo.19250122",
+      "date": "2026-03-27",
+      "description": "Purpose: The inclination of the occlusal plane is important for diagnostic purposes, and it also acts as a guideline for designing occlusal rehabilitation therapies. When all teeth are lost, different landmarks have been employed to establish the occlusal plane. Hence, this study aims to compare the mandibular plane with the lower occlusal plane in dentulous patients. Methods: A digital photograph of the right and left facial profiles was obtained of the angle between the intraoral occlusal plane (represented by a modified Fox plane) and mandibular plane (represented by a metallic scale placed on the lower border of the mandible) in a standard position. The angle was calculated using Microdicom software, and results were statistically analysed using Mann Whitney U test . Results: The average angle between the occlusal plane and mandibular plane was 6 degrees and the difference in angle between the right and left sides was not statistically significant. Conclusions: The lower occlusal a",
+      "license": "cc-by-4.0",
+      "access": "See original record",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "cephalometric",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-electricsheepafrica-africa-synth-cancer-oral-cancer-head-neck-africa-all",
+      "title": "electricsheepafrica/africa-synth-cancer-oral-cancer-head-neck-africa-all",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/electricsheepafrica/africa-synth-cancer-oral-cancer-head-neck-africa-all",
+      "doi": "",
+      "date": "2026-02-22",
+      "description": "Oral Cancer Head Neck Africa | Africa (Electric Sheep Africa metadata inventory) Size category: 1K<n<10K - Formats: csv - Sector: health - Engineered by Electric Sheep Africa TL;DR This dataset is part of the Electric Sheep Africa catalog on Hugging Face. It is indexed for African data discovery with standardized metadata, loading guidance, provenance notes, and analyst-oriented context. What This Dataset Covers Health datasets help researchers… See the full description on the dataset page: https://huggingface.co/datasets/electricsheepafrica/africa-synth-cancer-oral-cancer-head-neck-africa-all.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "oral cancer",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-infobayai-xray-opg-dental-radiology-reports-without-findings-dataset",
+      "title": "InfoBayAI/Xray-OPG-Dental-Radiology-Reports-Without-Findings-Dataset",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/InfoBayAI/Xray-OPG-Dental-Radiology-Reports-Without-Findings-Dataset",
+      "doi": "",
+      "date": "2026-02-18",
+      "description": "Dataset Description: This dataset is a large-scale collection of OPG (Orthopantomogram) X-ray reports without clinical findings, containing data from 970 patients and 970 medical images, designed to support the development and training of advanced healthcare AI, medical imaging, diagnostic AI, and clinical NLP systems. The dataset captures authentic imaging characteristics such as scanner variability, acquisition protocols, and patient positioning, along with clinical narratives. This ensures… See the full description on the dataset page: https://huggingface.co/datasets/InfoBayAI/Xray-OPG-Dental-Radiology-Reports-Without-Findings-Dataset.",
+      "license": "",
+      "access": "Gated",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "dental",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-electricsheepafrica-oral-health-dental-disease",
+      "title": "electricsheepafrica/oral-health-dental-disease",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/electricsheepafrica/oral-health-dental-disease",
+      "doi": "",
+      "date": "2026-02-10",
+      "description": "Oral Health & Dental Disease (Caries, Periodontal, Noma, Treatment Access) | Africa (Electric Sheep Africa metadata inventory) Size category: 10K<n<100K - Formats: csv - Sector: health - Engineered by Electric Sheep Africa TL;DR This dataset is part of the Electric Sheep Africa catalog on Hugging Face. It is indexed for African data discovery with standardized metadata, loading guidance, provenance notes, and analyst-oriented context. What This… See the full description on the dataset page: https://huggingface.co/datasets/electricsheepafrica/oral-health-dental-disease.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "dental",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-praharshita2007-oral-cancer",
+      "title": "Praharshita2007/Oral-Cancer",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/Praharshita2007/Oral-Cancer",
+      "doi": "",
+      "date": "2025-12-14",
+      "description": "",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "oral cancer",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-wildstash-periodontal-reasoning-40k",
+      "title": "Wildstash/periodontal-reasoning-40k",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/Wildstash/periodontal-reasoning-40k",
+      "doi": "",
+      "date": "2025-10-18",
+      "description": "Periodontal-Reasoning-40k 40,000 periodontal clinical reasoning examples for off-policy RLHF (KTO/DPO). Schema prompt: instruction or question completion: model response label: {+1, -1} preference label Example {\"prompt\": \"A patient's plaque score was 35% at baseline and 1% at follow-up. Determine whether the improvement is favourable according to BSP criteria (≤20% plaque or ≥50% reduction).\", \"completion\": \"The improvement is favourable.\"… See the full description on the dataset page: https://huggingface.co/datasets/Wildstash/periodontal-reasoning-40k.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "periodontal",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-docty-oral-cancer",
+      "title": "Docty/Oral-Cancer",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/Docty/Oral-Cancer",
+      "doi": "",
+      "date": "2024-11-24",
+      "description": "",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "oral cancer",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-01"
     },
     {
       "id": "zenodo-10-5281-zenodo-23138199",
@@ -822,22 +1430,6 @@
       "last_seen": "2026-10-31"
     },
     {
-      "id": "hugging-face-huggingface-co-datasets-national-digital-qld-public-dental-waiting-lists",
-      "title": "National-Digital/qld-public-dental-waiting-lists",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/National-Digital/qld-public-dental-waiting-lists",
-      "doi": "",
-      "date": "2026-10-03",
-      "description": "Public dental waiting lists by clinic, Queensland, latest quarter Adults waiting for public dental care and treated from the lists at each Queensland Health dental clinic in the newest quarter, by waiting list and months waited. This is a copy of the 2026-03-30 version of this dataset on publicdata.au, where it has 428 rows and 19 fields. The same version is kept at https://publicdata.au/d/qld-public-dental-waiting-lists/v/2026-03-30/ in 9 formats, with every earlier version and… See the full description on the dataset page: https://huggingface.co/datasets/National-Digital/qld-public-dental-waiting-lists.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "dental",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
       "id": "zenodo-10-5281-zenodo-23079229",
       "title": "COMPARATIVE CHARACTERISTICS OF PROTRACTION FACEMASKS AND MAXILLARY EXPANSION APPLIANCES",
       "source": "Zenodo",
@@ -850,534 +1442,6 @@
       "source_type": "dataset",
       "status": "unverified",
       "query": "orthodontic",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-danglili-dental-panoramic-xray-yolo",
-      "title": "DAnglili/dental-panoramic-xray-yolo",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/DAnglili/dental-panoramic-xray-yolo",
-      "doi": "",
-      "date": "2026-09-23",
-      "description": "Dental Panoramic X-Ray Detection Dataset (YOLO Format) Combined dataset for dental pathology detection on panoramic radiographs, in YOLO format. Built for training liodon-ai/dental-panoramic-detector. Classes ID Name Description 0 caries Dental caries and deep caries 1 periapical_lesion Periapical / apical periodontitis 2 impacted_tooth Impacted and wisdom teeth Dataset Sources Source Images Boxes License DENTEX 724 3… See the full description on the dataset page: https://huggingface.co/datasets/DAnglili/dental-panoramic-xray-yolo.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "dental",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-hetusuki-dental-panoramic-xray-yolo",
-      "title": "hetusuki/dental-panoramic-xray-yolo",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/hetusuki/dental-panoramic-xray-yolo",
-      "doi": "",
-      "date": "2026-09-16",
-      "description": "Dental Panoramic X-Ray Detection Dataset (YOLO Format) Combined dataset for dental pathology detection on panoramic radiographs, in YOLO format. Built for training liodon-ai/dental-panoramic-detector. Classes ID Name Description 0 caries Dental caries and deep caries 1 periapical_lesion Periapical / apical periodontitis 2 impacted_tooth Impacted and wisdom teeth Dataset Sources Source Images Boxes License DENTEX 724 3… See the full description on the dataset page: https://huggingface.co/datasets/hetusuki/dental-panoramic-xray-yolo.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "dental",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "figshare-10-1371-journal-pone-0358261-t005",
-      "title": "Tooth-specific signed IA-PAMD and correlations with apical bone dimensions.",
-      "source": "Figshare",
-      "url": "https://plos.figshare.com/articles/dataset/_p_Tooth-specific_signed_IA-PAMD_and_correlations_with_apical_bone_dimensions_p_/33812524",
-      "doi": "10.1371/journal.pone.0358261.t005",
-      "date": "2026-09-15",
-      "description": "",
-      "license": "",
-      "access": "See original record",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "cephalometric",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "figshare-10-1371-journal-pone-0358261-t004",
-      "title": "Tooth-level frequency of alveolar bone measurements below 0.5 and 1.0 mm.",
-      "source": "Figshare",
-      "url": "https://plos.figshare.com/articles/dataset/_p_Tooth-level_frequency_of_alveolar_bone_measurements_below_0_5_and_1_0_mm_p_/33812518",
-      "doi": "10.1371/journal.pone.0358261.t004",
-      "date": "2026-09-15",
-      "description": "",
-      "license": "",
-      "access": "See original record",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "cephalometric",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "figshare-10-1371-journal-pone-0358261-t002",
-      "title": "Tooth-specific alveolar bone thickness.",
-      "source": "Figshare",
-      "url": "https://plos.figshare.com/articles/dataset/_p_Tooth-specific_alveolar_bone_thickness_p_/33812509",
-      "doi": "10.1371/journal.pone.0358261.t002",
-      "date": "2026-09-15",
-      "description": "",
-      "license": "",
-      "access": "See original record",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "cephalometric",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "figshare-10-1371-journal-pone-0358261-s001",
-      "title": "De-identified tooth-level analysis dataset.",
-      "source": "Figshare",
-      "url": "https://plos.figshare.com/articles/dataset/_p_De-identified_tooth-level_analysis_dataset_p_/33812485",
-      "doi": "10.1371/journal.pone.0358261.s001",
-      "date": "2026-09-15",
-      "description": "",
-      "license": "",
-      "access": "See original record",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "cephalometric",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "zenodo-10-5281-zenodo-22641950",
-      "title": "ARTIFICIAL INTELLIGENCE IN ORTHODONTICS: DIAGNOSIS, DISPUTE RESOLUTION, AND OUTCOME PREDICTION",
-      "source": "Zenodo",
-      "url": "https://zenodo.org/records/22641950",
-      "doi": "10.5281/zenodo.22641950",
-      "date": "2026-09-07",
-      "description": "Artificial intelligence (AI) is increasingly influencing orthodontic diagnosis, treatment planning, clinical communication, and prediction of treatment outcomes. Machine-learning and deep-learning systems can analyze radiographs, photographs, three-dimensional scans, and clinical records to identify anatomical landmarks, classify malocclusions, detect impacted teeth, estimate skeletal relationships, and forecast changes associated with orthodontic treatment. This article reviews the role of AI in orthodontics with particular attention to three applications: diagnosis, dispute resolution, and outcome prediction. A narrative review was conducted using recent scientific literature, systematic reviews, clinical studies, and international guidance on AI governance in healthcare. The available evidence suggests that AI systems can achieve moderate to high diagnostic performance, although reported accuracy varies substantially according to the task, dataset, image quality, reference standard,",
-      "license": "cc-by-4.0",
-      "access": "See original record",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "cephalometric",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-samin-yadollahi-26-panoramic-x-ray-tooth",
-      "title": "samin-yadollahi-26/panoramic_x-ray_tooth",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/samin-yadollahi-26/panoramic_x-ray_tooth",
-      "doi": "",
-      "date": "2026-09-05",
-      "description": "Panoramic X-ray Tooth Dataset Description This dataset, curated by Humans in the Loop, features over 500 panoramic dental X-ray images, complete with segmentation masks and annotation files. Designed to support dental research, machine learning model development, and automated dental diagnostics, the dataset showcases a variety of dental conditions and tooth structures. The high-quality segmentation masks, produced through expert human annotation, enhance the… See the full description on the dataset page: https://huggingface.co/datasets/samin-yadollahi-26/panoramic_x-ray_tooth.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "tooth",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-yiz0307-dentalvoice",
-      "title": "YiZ0307/DentalVoice",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/YiZ0307/DentalVoice",
-      "doi": "",
-      "date": "2026-08-27",
-      "description": "DentalVoice: A Chinese Dental Doctor-Patient Dialogue Dataset Dataset Description DentalVoice is a Chinese dental doctor-patient dialogue dataset built from real clinical cases. Each case originates from an authentic dental clinic record, undergoes RAG-based retrieval of clinical interviewing guidelines, and is then expanded into a multi-turn consultation dialogue script by a large language model, followed by TTS-based speech synthesis. The dataset covers common dental procedures including… See the full description on the dataset page: https://huggingface.co/datasets/YiZ0307/DentalVoice.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "dental",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-tresor2k-us-medicaid-dental-payments-by-state-2018-2024",
-      "title": "tresor2k/us-medicaid-dental-payments-by-state-2018-2024",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/tresor2k/us-medicaid-dental-payments-by-state-2018-2024",
-      "doi": "",
-      "date": "2026-08-24",
-      "description": "US Medicaid Dental Payments by CDT Code and State (2018-2024) What Medicaid actually paid dentists per claim line, by CDT procedure code (61 codes), by U.S. state (50 states + DC + national) and by period (2018-2024 yearly, plus a pooled 2023-2024 period). Derived from the HHS T-MSIS Medicaid Provider Spending file (v2026-02-09, 25.3M CDT cells, $47.6B paid) joined to NPPES (Aug 2026). Key national findings Only 20.0% of active U.S. dentists (53,926 of 269,978) billed Medicaid… See the full description on the dataset page: https://huggingface.co/datasets/tresor2k/us-medicaid-dental-payments-by-state-2018-2024.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "dental",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-kellection-sonata-dental-dataset",
-      "title": "Kellection/sonata-dental-dataset",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/Kellection/sonata-dental-dataset",
-      "doi": "",
-      "date": "2026-08-24",
-      "description": "Sonata Dental Dataset 牙科疾病检测与分类数据集（基于 Sonata 采集数据整理）。 ⚠️ 原始完整版（含 unknown 类）已备份，未随本仓库发布。 目录结构 Sonata/ ├── image/ # 检测图像（1645 张） ├── label/ # 检测标注（labelme JSON，1645 个，与 image 一一对应） └── Periodontal_Disease/ # 牙周病分类子集（按类别分目录） ├── gingival_diseases/ # 1103 张 ├── non_periodontal_disease/ # 591 张 └── periodontitis/ # 661 张 1. 检测子集（Detection） 图像：image/，1645… See the full description on the dataset page: https://huggingface.co/datasets/Kellection/sonata-dental-dataset.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "dental",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-tresor2k-us-dental-insurance-acceptance-by-state-2026",
-      "title": "tresor2k/us-dental-insurance-acceptance-by-state-2026",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/tresor2k/us-dental-insurance-acceptance-by-state-2026",
-      "doi": "",
-      "date": "2026-08-22",
-      "description": "US Dental Insurance Acceptance by State 2026 One row per US state plus the District of Columbia: 51 rows, 14 columns. For each state it brings together, in a single table, numbers that are usually scattered across several federal and association sources: share of dentists accepting Medicaid patients (pct_dentists_medicaid), with the state's rank adult Medicaid dental benefit level (medicaid_adult_dental_level: extensive / limited / emergency_only / none) and the annual cap when… See the full description on the dataset page: https://huggingface.co/datasets/tresor2k/us-dental-insurance-acceptance-by-state-2026.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "dental",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-tresor2k-us-dental-deserts-atlas-2026",
-      "title": "tresor2k/us-dental-deserts-atlas-2026",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/tresor2k/us-dental-deserts-atlas-2026",
-      "doi": "",
-      "date": "2026-08-20",
-      "description": "US Dental Deserts Atlas 2026 (county-level) County-level atlas of dental care access and affordability in the United States. One row per US county: 3,144 rows, 21 columns. It joins four things that are usually only available separately: HRSA dental HPSA designations (geographic, population and facility types, plus max score), snapshot of 30 July 2026 Median household income (Census ACS 5-year 2024, table B19013) State-level dental prices (restorative cost index and average… See the full description on the dataset page: https://huggingface.co/datasets/tresor2k/us-dental-deserts-atlas-2026.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "dental",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "figshare-10-6084-m9-figshare-33191649-v1",
-      "title": "Cephalometric Analysis - Arab and German Data",
-      "source": "Figshare",
-      "url": "https://figshare.com/articles/dataset/Cephalometric_Analysis_-_Arab_and_German_Data/33191649",
-      "doi": "10.6084/m9.figshare.33191649.v1",
-      "date": "2026-08-09",
-      "description": "",
-      "license": "",
-      "access": "See original record",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "cephalometric",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-oralsurgery-dental-implant-surgery-sample",
-      "title": "OralSurgery/dental-implant-surgery-sample",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/OralSurgery/dental-implant-surgery-sample",
-      "doi": "",
-      "date": "2026-08-07",
-      "description": "Dental Implant Surgery — Multimodal Annotated Video (Full-Mouth Three-Camera Sample) A public preview of one complete full-mouth implant rehabilitation — both jaws in a single session, six implants in the maxilla and six in the mandible with multi-unit abutments — recorded by three synchronised cameras in a working operating room, with the surgeons' own words aligned to the picture and every keyframe annotated across six layers (L0–L5). This repository is a showcase slice of… See the full description on the dataset page: https://huggingface.co/datasets/OralSurgery/dental-implant-surgery-sample.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "dental",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "zenodo-10-5281-zenodo-21501904",
-      "title": "COMPREHENSIVE ANALYSIS OF FACIAL AESTHETIC CHANGES IN PATIENTS WITH DEEP BITE USING DIGITAL PHOTOGRAMMETRY AND CEPHALOMETRIC ANALYSIS",
-      "source": "Zenodo",
-      "url": "https://zenodo.org/records/21501904",
-      "doi": "10.5281/zenodo.21501904",
-      "date": "2026-07-23",
-      "description": "Background. Deep bite is one of the most common vertical dentofacial anomalies and is accompanied not only by impaired occlusal relationships but also by pronounced changes in facial aesthetics, temporomandibular joint function, and masticatory muscles. Modern digital diagnostic methods make it possible to objectively assess changes in the facial soft tissues and the relationship between aesthetic parameters and cephalometric measurements. Objective. To perform a comprehensive analysis of facial aesthetic changes in patients with deep bite based on digital photogrammetry and cephalometric examination.",
-      "license": "cc-by-4.0",
-      "access": "See original record",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "cephalometric",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-nichevault-nichevault-uk-dental-practices",
-      "title": "NicheVault/nichevault-uk-dental-practices",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/NicheVault/nichevault-uk-dental-practices",
-      "doi": "",
-      "date": "2026-07-08",
-      "description": "NicheVault UK Dental Practices — Free Sample Dataset 15 active UK companies registered under SIC 86230 — Dental practice activities — collected from Companies House. This public sample lets you inspect the formatting, provenance and exact 14-column schema used in the paid NicheVault dataset. Dataset contents 15 company records Active on the Companies House register at time of collection. Some records may carry an additional status qualifier, shown in… See the full description on the dataset page: https://huggingface.co/datasets/NicheVault/nichevault-uk-dental-practices.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "dental",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-haseebdev-hipaa-dental-tickets",
-      "title": "HaseebDev/hipaa_dental_tickets",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/HaseebDev/hipaa_dental_tickets",
-      "doi": "",
-      "date": "2026-07-03",
-      "description": "Hipaa_Dental_Tickets (Synthetic B2B Dataset Preview) Add me on Discord: xomohappy for access support, delivery questions, or product questions about this premade commercial dataset. This is a premium, privacy-compliant, industry-safe synthetic dataset simulating HIPAA Dental Office Support Tickets for B2B applications. About this Dataset This dataset is generated programmatically using large language models combined with a strict data curation and validation… See the full description on the dataset page: https://huggingface.co/datasets/HaseebDev/hipaa_dental_tickets.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "dental",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-alliecat035-tooth",
-      "title": "Alliecat035/tooth",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/Alliecat035/tooth",
-      "doi": "",
-      "date": "2026-06-24",
-      "description": "",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "tooth",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-tresor2k-us-dental-cost-by-city-2026",
-      "title": "tresor2k/us-dental-cost-by-city-2026",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/tresor2k/us-dental-cost-by-city-2026",
-      "doi": "",
-      "date": "2026-06-23",
-      "description": "⚠️ Version 2.0.0 — correction notice (13 July 2026) Version 1 of this dataset published per-state figures for braces and porcelain veneers that were not observed. An internal audit established that they were derived from the single-implant series by fixed multipliers (0.80× and 0.25×, constant to four decimal places across all 51 jurisdictions). Every procedure therefore shared the same state ranking, and the \"composite\" cost index reduced algebraically to a function of the… See the full description on the dataset page: https://huggingface.co/datasets/tresor2k/us-dental-cost-by-city-2026.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "dental",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-tresor2k-us-dental-procedure-cost-2026",
-      "title": "tresor2k/us-dental-procedure-cost-2026",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/tresor2k/us-dental-procedure-cost-2026",
-      "doi": "",
-      "date": "2026-06-23",
-      "description": "⚠️ Version 2.0.0 — correction notice (13 July 2026) Version 1 of this dataset published per-state figures for braces and porcelain veneers that were not observed. An internal audit established that they were derived from the single-implant series by fixed multipliers (0.80× and 0.25×, constant to four decimal places across all 51 jurisdictions). Every procedure therefore shared the same state ranking, and the \"composite\" cost index reduced algebraically to a function of the… See the full description on the dataset page: https://huggingface.co/datasets/tresor2k/us-dental-procedure-cost-2026.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "dental",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-tresor2k-us-dental-cost-index-2026",
-      "title": "tresor2k/us-dental-cost-index-2026",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/tresor2k/us-dental-cost-index-2026",
-      "doi": "",
-      "date": "2026-06-03",
-      "description": "⚠️ Version 2.0.0 — correction notice (13 July 2026) Version 1 of this dataset published per-state figures for braces and porcelain veneers that were not observed. An internal audit established that they were derived from the single-implant series by fixed multipliers (0.80× and 0.25×, constant to four decimal places across all 51 jurisdictions). Every procedure therefore shared the same state ranking, and the \"composite\" cost index reduced algebraically to a function of the… See the full description on the dataset page: https://huggingface.co/datasets/tresor2k/us-dental-cost-index-2026.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "dental",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-medotter-sts-3d-tooth",
-      "title": "MedOtter/STS-3D-Tooth",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/MedOtter/STS-3D-Tooth",
-      "doi": "",
-      "date": "2026-05-05",
-      "description": "STS-3D-Tooth The 3D Cone-Beam CT (CBCT) subset of the STS (Semi-supervised Teeth Segmentation) multi-modal dental dataset, as released in Wang et al., Scientific Data 12, 117 (2025) and used in the MICCAI 2023/2024 STS Challenges. The companion 2D panoramic X-ray subset is hosted at Angelou0516/STS-2D-Tooth. Dataset Summary Field Details Modality Cone-Beam CT (CBCT), NIfTI (.nii.gz) Body Part Teeth (32 permanent teeth, FDI numbering) Volumes 371… See the full description on the dataset page: https://huggingface.co/datasets/MedOtter/STS-3D-Tooth.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "tooth",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-medotter-sts-2d-tooth",
-      "title": "MedOtter/STS-2D-Tooth",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/MedOtter/STS-2D-Tooth",
-      "doi": "",
-      "date": "2026-05-05",
-      "description": "STS-2D-Tooth The 2D panoramic dental X-ray subset of the STS (Semi-supervised Teeth Segmentation) multi-modal dataset, as released in Wang et al., Scientific Data 12, 117 (2025) and used in the MICCAI 2023 STS Challenge. Composition 4,000 panoramic X-ray images (PNG, 640x320, 3-channel grayscale-as-RGB) split across two demographic subsets: Subset Total Labeled Unlabeled A-PXI (adult) 3,500 850 2,650 C-PXI (child) 500 50 450 Total 4,000 900 3,100… See the full description on the dataset page: https://huggingface.co/datasets/MedOtter/STS-2D-Tooth.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "tooth",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-electricsheepafrica-africa-who-dental-prosthetic-technicians",
-      "title": "electricsheepafrica/africa-who-dental-prosthetic-technicians",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/electricsheepafrica/africa-who-dental-prosthetic-technicians",
-      "doi": "",
-      "date": "2026-04-30",
-      "description": "Africa — WHO GHO: Dental Prosthetic Technicians (number) | Africa (World Health Organization) Size category: n<1K - Formats: parquet - Sector: health - Engineered by Electric Sheep Africa TL;DR This dataset is part of the Electric Sheep Africa catalog on Hugging Face. It is indexed for African data discovery with standardized metadata, loading guidance, provenance notes, and analyst-oriented context. What This Dataset Covers Health datasets help… See the full description on the dataset page: https://huggingface.co/datasets/electricsheepafrica/africa-who-dental-prosthetic-technicians.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "dental",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-emad2001-delr-cephalometric-convnextv2",
-      "title": "emad2001/DeLR-Cephalometric-ConvNeXtV2",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/emad2001/DeLR-Cephalometric-ConvNeXtV2",
-      "doi": "",
-      "date": "2026-04-27",
-      "description": "DeLR – Dual-encoder Landmark Regression A PyTorch implementation of the DeLR (Dual-encoder Landmark Regression) architecture for cephalometric landmark detection, evaluated on three public datasets: Aariz Cephalograms — 1000 images, 29 annotated landmarks (700 / 150 / 150 train/valid/test). CephAdoAdu Dataset — 700 images, 10 landmarks, mixed adolescent + adult cohort (the public release contains the official 400-image training part and 300-image validation part; the 300… See the full description on the dataset page: https://huggingface.co/datasets/emad2001/DeLR-Cephalometric-ConvNeXtV2.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "cephalometric",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "zenodo-10-5281-zenodo-19250122",
-      "title": "EVALUATING THE RELATIONSHIP BETWEEN MANDIBULAR PLANE AND LOWER OCCLUSAL PLANE IN FULLY DENTULOUS PATIENTS",
-      "source": "Zenodo",
-      "url": "https://zenodo.org/records/19250122",
-      "doi": "10.5281/zenodo.19250122",
-      "date": "2026-03-27",
-      "description": "Purpose: The inclination of the occlusal plane is important for diagnostic purposes, and it also acts as a guideline for designing occlusal rehabilitation therapies. When all teeth are lost, different landmarks have been employed to establish the occlusal plane. Hence, this study aims to compare the mandibular plane with the lower occlusal plane in dentulous patients. Methods: A digital photograph of the right and left facial profiles was obtained of the angle between the intraoral occlusal plane (represented by a modified Fox plane) and mandibular plane (represented by a metallic scale placed on the lower border of the mandible) in a standard position. The angle was calculated using Microdicom software, and results were statistically analysed using Mann Whitney U test . Results: The average angle between the occlusal plane and mandibular plane was 6 degrees and the difference in angle between the right and left sides was not statistically significant. Conclusions: The lower occlusal a",
-      "license": "cc-by-4.0",
-      "access": "See original record",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "cephalometric",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-electricsheepafrica-africa-synth-cancer-oral-cancer-head-neck-africa-all",
-      "title": "electricsheepafrica/africa-synth-cancer-oral-cancer-head-neck-africa-all",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/electricsheepafrica/africa-synth-cancer-oral-cancer-head-neck-africa-all",
-      "doi": "",
-      "date": "2026-02-22",
-      "description": "Oral Cancer Head Neck Africa | Africa (Electric Sheep Africa metadata inventory) Size category: 1K<n<10K - Formats: csv - Sector: health - Engineered by Electric Sheep Africa TL;DR This dataset is part of the Electric Sheep Africa catalog on Hugging Face. It is indexed for African data discovery with standardized metadata, loading guidance, provenance notes, and analyst-oriented context. What This Dataset Covers Health datasets help researchers… See the full description on the dataset page: https://huggingface.co/datasets/electricsheepafrica/africa-synth-cancer-oral-cancer-head-neck-africa-all.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "oral cancer",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-infobayai-xray-opg-dental-radiology-reports-without-findings-dataset",
-      "title": "InfoBayAI/Xray-OPG-Dental-Radiology-Reports-Without-Findings-Dataset",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/InfoBayAI/Xray-OPG-Dental-Radiology-Reports-Without-Findings-Dataset",
-      "doi": "",
-      "date": "2026-02-18",
-      "description": "Dataset Description: This dataset is a large-scale collection of OPG (Orthopantomogram) X-ray reports without clinical findings, containing data from 970 patients and 970 medical images, designed to support the development and training of advanced healthcare AI, medical imaging, diagnostic AI, and clinical NLP systems. The dataset captures authentic imaging characteristics such as scanner variability, acquisition protocols, and patient positioning, along with clinical narratives. This ensures… See the full description on the dataset page: https://huggingface.co/datasets/InfoBayAI/Xray-OPG-Dental-Radiology-Reports-Without-Findings-Dataset.",
-      "license": "",
-      "access": "Gated",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "dental",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-electricsheepafrica-oral-health-dental-disease",
-      "title": "electricsheepafrica/oral-health-dental-disease",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/electricsheepafrica/oral-health-dental-disease",
-      "doi": "",
-      "date": "2026-02-10",
-      "description": "Oral Health & Dental Disease (Caries, Periodontal, Noma, Treatment Access) | Africa (Electric Sheep Africa metadata inventory) Size category: 10K<n<100K - Formats: csv - Sector: health - Engineered by Electric Sheep Africa TL;DR This dataset is part of the Electric Sheep Africa catalog on Hugging Face. It is indexed for African data discovery with standardized metadata, loading guidance, provenance notes, and analyst-oriented context. What This… See the full description on the dataset page: https://huggingface.co/datasets/electricsheepafrica/oral-health-dental-disease.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "dental",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-praharshita2007-oral-cancer",
-      "title": "Praharshita2007/Oral-Cancer",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/Praharshita2007/Oral-Cancer",
-      "doi": "",
-      "date": "2025-12-14",
-      "description": "",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "oral cancer",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-wildstash-periodontal-reasoning-40k",
-      "title": "Wildstash/periodontal-reasoning-40k",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/Wildstash/periodontal-reasoning-40k",
-      "doi": "",
-      "date": "2025-10-18",
-      "description": "Periodontal-Reasoning-40k 40,000 periodontal clinical reasoning examples for off-policy RLHF (KTO/DPO). Schema prompt: instruction or question completion: model response label: {+1, -1} preference label Example {\"prompt\": \"A patient's plaque score was 35% at baseline and 1% at follow-up. Determine whether the improvement is favourable according to BSP criteria (≤20% plaque or ≥50% reduction).\", \"completion\": \"The improvement is favourable.\"… See the full description on the dataset page: https://huggingface.co/datasets/Wildstash/periodontal-reasoning-40k.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "periodontal",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-docty-oral-cancer",
-      "title": "Docty/Oral-Cancer",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/Docty/Oral-Cancer",
-      "doi": "",
-      "date": "2024-11-24",
-      "description": "",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "oral cancer",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-31"
     },
@@ -2198,7 +2262,7 @@
       "last_seen": "2026-10-19"
     }
   ],
-  "total_records": 135,
-  "new_this_scan": 6,
+  "total_records": 139,
+  "new_this_scan": 4,
   "note": "Automatically discovered public metadata only. Every record is unverified; Europe PMC records are publication leads, not confirmed datasets. Sources may fail or be rate-limited. Not an exhaustive index."
 }
