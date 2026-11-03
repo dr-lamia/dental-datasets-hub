@@ -21,12 +21,12 @@ A curated, specialty-organized directory of dental and oral-health dataset metad
 
 | Catalogue | Records | Main focus |
 |---|---:|---|
-| [Dental imaging](catalog/dental_imaging.csv) | 19 | Radiographs, CBCT, annotations, and segmentation |
+| [Dental imaging](catalog/dental_imaging.csv) | 20 | Radiographs, CBCT, annotations, and segmentation |
 | [Oral medicine](catalog/oral_medicine.csv) | 25 | Oral medicine, mucosal disease, pathology, and cancer |
 | [Digital dentistry](catalog/digital_dentistry.csv) | 13 | Intraoral scans, virtual patients, facial motion, and jaw tracking |
 | [Clinical reasoning benchmarks](catalog/clinical_reasoning_benchmarks.csv) | 6 | Dental QA and multimodal or controlled-access benchmarks |
 
-These are 63 catalogue records, not necessarily 63 unique datasets; some resources may overlap. Use the [catalogue index](catalog/README.md) for details.
+These are 64 catalogue records, not necessarily 63 unique datasets; some resources may overlap. Use the [catalogue index](catalog/README.md) for details.
 
 ## Periodontics specialty inventory
 
