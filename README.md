@@ -26,11 +26,13 @@ A curated, specialty-organized directory of dental and oral-health dataset metad
 | [Digital dentistry](catalog/digital_dentistry.csv) | 13 | Intraoral scans, virtual patients, facial motion, and jaw tracking |
 | [Clinical reasoning benchmarks](catalog/clinical_reasoning_benchmarks.csv) | 6 | Dental QA and multimodal or controlled-access benchmarks |
 
-These are 64 catalogue records, not necessarily 63 unique datasets; some resources may overlap. Use the [catalogue index](catalog/README.md) for details.
+These are 64 catalogue records, not necessarily 64 unique datasets; some resources may overlap. Use the [catalogue index](catalog/README.md) for details.
 
 ## Periodontics specialty inventory
 
-The [dedicated periodontics-datasets repository](https://github.com/dr-lamia/periodontics-datasets) has **30 source-checked metadata records** as of 2026-10-27, including a newly released 883-patient longitudinal periodontal maintenance cohort, 16S microbiome data, GEO single-cell series and a restricted OMIX atlas. It is maintained separately, and its 30 rows are **not added** to this hub's 63-row count. The PhysioNet maintenance cohort is cross-listed here once as a clinical decision-support record; cross-repository references do not create new patients.
+The [dedicated periodontics-datasets repository](https://github.com/dr-lamia/periodontics-datasets) has **32 metadata records** as of 2026-11-10, including a newly released 883-patient longitudinal periodontal maintenance cohort, 16S microbiome data, GEO single-cell series and a restricted OMIX atlas. It is maintained separately, and its 32 rows are **not added** to this hub's 64-row count. The PhysioNet maintenance cohort is cross-listed here once as a clinical decision-support record; cross-repository references do not create new patients.
+
+The [therapy-resistant periodontitis multi-omics v2 dataset](https://zenodo.org/records/21648577) was newly curated in the dedicated periodontics catalogue on 2026-11-10. It is linked here without inventing a general-catalogue row or claiming Atlas rendering; its licence and patient/donor counts require further review.
 
 ## How the repository is organized
 
