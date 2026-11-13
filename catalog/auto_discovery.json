@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T14:40:09Z",
+  "updated_at": "2026-11-13T13:58:10Z",
   "sources": [
     "Zenodo",
     "Figshare",
@@ -12,14 +12,14 @@
       "query_count": 10,
       "successful_queries": 10,
       "failed_queries": 0,
-      "retrieved_candidate_matches": 12
+      "retrieved_candidate_matches": 11
     },
     {
       "source": "Figshare",
       "query_count": 10,
       "successful_queries": 10,
       "failed_queries": 0,
-      "retrieved_candidate_matches": 20
+      "retrieved_candidate_matches": 21
     },
     {
       "source": "Hugging Face",
@@ -38,6 +38,54 @@
   ],
   "records": [
     {
+      "id": "figshare-10-3389-froh-2026-2011366-s001",
+      "title": "Table 3_Perspectives and practices of community members regarding oral health behaviour and factors that influence oral health service utilisation in rural India: a qualitative study.xlsx",
+      "source": "Figshare",
+      "url": "https://frontiersin.figshare.com/articles/dataset/Table_3_Perspectives_and_practices_of_community_members_regarding_oral_health_behaviour_and_factors_that_influence_oral_health_service_utilisation_in_rural_India_a_qualitative_study_xlsx/35001604",
+      "doi": "10.3389/froh.2026.2011366.s001",
+      "date": "2026-11-13",
+      "description": "",
+      "license": "",
+      "access": "See original record",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "dental",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-healthcare-biomedical-ai-pediatric-dental-medication-safety-constraint-verification-be",
+      "title": "healthcare-biomedical-ai/Pediatric-Dental-Medication-Safety-Constraint-Verification-Benchmark",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/healthcare-biomedical-ai/Pediatric-Dental-Medication-Safety-Constraint-Verification-Benchmark",
+      "doi": "",
+      "date": "2026-11-13",
+      "description": "Pediatric Dental Medication Safety Constraint Verification Benchmark This JSON benchmark records patient age, weight, allergy history, current medications, and proposed prescriptions in pediatric dental scenarios, with labels indicating whether medication safety constraints are violated. Each record includes an assessment status, specific violated constraints, and a rationale, supporting evaluation of a model's ability to identify dosing issues, contraindications, and other… See the full description on the dataset page: https://huggingface.co/datasets/healthcare-biomedical-ai/Pediatric-Dental-Medication-Safety-Constraint-Verification-Benchmark.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "dental",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-mango23333-dental-bench-private",
+      "title": "Mango23333/Dental-Bench-private",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/Mango23333/Dental-Bench-private",
+      "doi": "",
+      "date": "2026-11-12",
+      "description": "Dental VQA Benchmark — v0.1 Preview This is a local preview for private, authorised model evaluation. It contains public-source panoramic data and restricted Eyes of AI panoramic/CBCT data. All files in a Hugging Face repository share its access arrangements; the configuration names do not impose separate access restrictions. Create the initial repository as private. This folder does not itself create a repository or configure access. There are 29,797 question pairs: 29,797 MCQs… See the full description on the dataset page: https://huggingface.co/datasets/Mango23333/Dental-Bench-private.",
+      "license": "",
+      "access": "Gated",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "dental",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
+    },
+    {
       "id": "figshare-10-6084-m9-figshare-34989797-v1",
       "title": "Additional file 5 of Morphology of third mandibular molars – an in vivo cone beam computed tomography study in Lower Silesia",
       "source": "Figshare",
@@ -51,7 +99,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34989794-v1",
@@ -67,7 +115,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34989742-v1",
@@ -83,7 +131,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "europe-pmc-europepmc-org-article-pmc-pmc13752011",
@@ -97,9 +145,9 @@
       "access": "Publication; dataset access unconfirmed",
       "source_type": "publication_lead",
       "status": "unverified",
-      "query": "periodontal",
+      "query": "maxillofacial",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "zenodo-10-5281-zenodo-24136022",
@@ -115,7 +163,7 @@
       "status": "unverified",
       "query": "implant dentistry",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34978013-v1",
@@ -131,7 +179,7 @@
       "status": "unverified",
       "query": "oral cancer",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34978004-v1",
@@ -147,7 +195,7 @@
       "status": "unverified",
       "query": "oral cancer",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34978001-v1",
@@ -163,7 +211,7 @@
       "status": "unverified",
       "query": "oral cancer",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-haseebdev-hipaa-dental-tickets1",
@@ -179,7 +227,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "figshare-10-6084-m9-figshare-31239889-v4",
@@ -195,7 +243,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "figshare-10-3389-fcell-2026-1969882-s001",
@@ -211,7 +259,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34970114-v1",
@@ -227,23 +275,7 @@
       "status": "unverified",
       "query": "temporomandibular",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-12"
-    },
-    {
-      "id": "zenodo-10-5281-zenodo-24033967",
-      "title": "RCT-PEARL: Annotated periapical radiograph dataset for AI-based quality assessment of root canal obturation",
-      "source": "Zenodo",
-      "url": "https://zenodo.org/records/24033967",
-      "doi": "10.5281/zenodo.24033967",
-      "date": "2026-11-07",
-      "description": "This dataset, named “RCT-PEARL: Annotated periapical radiograph dataset for AI-based quality assessment of root canal obturation” comprises a collection of anonymized intraoral periapical radiographs curated for root canal treatment evaluation. The dataset includes the following: IOPA Radiographs: Radiographic images containing root canal treated teeth. Treated Tooth Annotations: Polygon annotations identifying root canal treated teeth. Root Canal Filling Annotations: Instance-level polygon annotations for individual root canal fillings. Root Apex Keypoints: Keypoint annotations marking the apex locations of treated roots. Filling Quality Labels: Labels for each filling instance covering obturation length, lateral adaptation, voids and preparation irregularities, plus a coronal restoration label for each treated tooth. Additional Findings: Annotations for separated instruments and missed canals where visible. This dataset aims to support the development of multi-task machine learning p",
-      "license": "cc-by-4.0",
-      "access": "See original record",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "tooth",
-      "first_seen": "2026-11-11",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "europe-pmc-10-1007-s00784-026-07242-7",
@@ -259,7 +291,7 @@
       "status": "unverified",
       "query": "orthodontic",
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "figshare-10-3389-fphys-2026-1995127-s002",
@@ -275,7 +307,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-zsanimations-dental-short-scenes",
@@ -291,7 +323,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "zenodo-10-5281-zenodo-23826383",
@@ -307,7 +339,7 @@
       "status": "unverified",
       "query": "temporomandibular",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-yong56-possible-tooth-ae5440",
@@ -323,7 +355,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "figshare-10-3389-froh-2026-1983179-s001",
@@ -339,7 +371,7 @@
       "status": "unverified",
       "query": "CBCT",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "figshare-10-3389-fearc-2026-1845423-s001",
@@ -355,7 +387,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "europe-pmc-10-1155-ijod-3585953",
@@ -371,7 +403,7 @@
       "status": "unverified",
       "query": "temporomandibular",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "zenodo-10-5281-zenodo-23854484",
@@ -387,7 +419,7 @@
       "status": "unverified",
       "query": "orthodontic",
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "zenodo-10-5281-zenodo-23842046",
@@ -403,7 +435,7 @@
       "status": "unverified",
       "query": "orthodontic",
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "europe-pmc-europepmc-org-article-pmc-pmc13719469",
@@ -419,7 +451,7 @@
       "status": "unverified",
       "query": "temporomandibular",
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-emad2001-dental-implant-brand-benchmark",
@@ -435,7 +467,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-rotgarsett-dental-ai-visibility-four-platform",
@@ -451,7 +483,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "zenodo-10-5281-zenodo-23610466",
@@ -467,7 +499,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-jyunkai-dental-ai-eval",
@@ -483,7 +515,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "zenodo-10-5281-zenodo-23382041",
@@ -499,7 +531,7 @@
       "status": "unverified",
       "query": "temporomandibular",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34477509-v1",
@@ -515,7 +547,7 @@
       "status": "unverified",
       "query": "implant dentistry",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-emad2001-dental-implant-brand-classification",
@@ -531,7 +563,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "zenodo-10-5281-zenodo-23268538",
@@ -547,7 +579,7 @@
       "status": "unverified",
       "query": "CBCT",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-tirandazdylan-pediatric-dental-disease",
@@ -563,7 +595,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34069407-v1",
@@ -579,7 +611,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-national-digital-qld-public-dental-waiting-lists",
@@ -595,7 +627,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-danglili-dental-panoramic-xray-yolo",
@@ -611,7 +643,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-hetusuki-dental-panoramic-xray-yolo",
@@ -627,7 +659,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "figshare-10-1371-journal-pone-0358261-t005",
@@ -643,7 +675,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "figshare-10-1371-journal-pone-0358261-t004",
@@ -659,7 +691,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "figshare-10-1371-journal-pone-0358261-t002",
@@ -675,7 +707,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "figshare-10-1371-journal-pone-0358261-s001",
@@ -691,7 +723,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "zenodo-10-5281-zenodo-22641950",
@@ -707,7 +739,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-samin-yadollahi-26-panoramic-x-ray-tooth",
@@ -723,7 +755,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-yiz0307-dentalvoice",
@@ -739,7 +771,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-tresor2k-us-medicaid-dental-payments-by-state-2018-2024",
@@ -755,7 +787,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-kellection-sonata-dental-dataset",
@@ -771,7 +803,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-tresor2k-us-dental-insurance-acceptance-by-state-2026",
@@ -787,7 +819,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-tresor2k-us-dental-deserts-atlas-2026",
@@ -803,7 +835,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-oralsurgery-dental-implant-surgery-sample",
@@ -819,7 +851,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "zenodo-10-5281-zenodo-21501904",
@@ -835,7 +867,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-nichevault-nichevault-uk-dental-practices",
@@ -851,7 +883,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-haseebdev-hipaa-dental-tickets",
@@ -867,7 +899,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-alliecat035-tooth",
@@ -883,6 +915,150 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-19",
+      "last_seen": "2026-11-13"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-medotter-sts-3d-tooth",
+      "title": "MedOtter/STS-3D-Tooth",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/MedOtter/STS-3D-Tooth",
+      "doi": "",
+      "date": "2026-05-05",
+      "description": "STS-3D-Tooth The 3D Cone-Beam CT (CBCT) subset of the STS (Semi-supervised Teeth Segmentation) multi-modal dental dataset, as released in Wang et al., Scientific Data 12, 117 (2025) and used in the MICCAI 2023/2024 STS Challenges. The companion 2D panoramic X-ray subset is hosted at Angelou0516/STS-2D-Tooth. Dataset Summary Field Details Modality Cone-Beam CT (CBCT), NIfTI (.nii.gz) Body Part Teeth (32 permanent teeth, FDI numbering) Volumes 371… See the full description on the dataset page: https://huggingface.co/datasets/MedOtter/STS-3D-Tooth.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "tooth",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-13"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-medotter-sts-2d-tooth",
+      "title": "MedOtter/STS-2D-Tooth",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/MedOtter/STS-2D-Tooth",
+      "doi": "",
+      "date": "2026-05-05",
+      "description": "STS-2D-Tooth The 2D panoramic dental X-ray subset of the STS (Semi-supervised Teeth Segmentation) multi-modal dataset, as released in Wang et al., Scientific Data 12, 117 (2025) and used in the MICCAI 2023 STS Challenge. Composition 4,000 panoramic X-ray images (PNG, 640x320, 3-channel grayscale-as-RGB) split across two demographic subsets: Subset Total Labeled Unlabeled A-PXI (adult) 3,500 850 2,650 C-PXI (child) 500 50 450 Total 4,000 900 3,100… See the full description on the dataset page: https://huggingface.co/datasets/MedOtter/STS-2D-Tooth.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "tooth",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-13"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-emad2001-delr-cephalometric-convnextv2",
+      "title": "emad2001/DeLR-Cephalometric-ConvNeXtV2",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/emad2001/DeLR-Cephalometric-ConvNeXtV2",
+      "doi": "",
+      "date": "2026-04-27",
+      "description": "DeLR – Dual-encoder Landmark Regression A PyTorch implementation of the DeLR (Dual-encoder Landmark Regression) architecture for cephalometric landmark detection, evaluated on three public datasets: Aariz Cephalograms — 1000 images, 29 annotated landmarks (700 / 150 / 150 train/valid/test). CephAdoAdu Dataset — 700 images, 10 landmarks, mixed adolescent + adult cohort (the public release contains the official 400-image training part and 300-image validation part; the 300… See the full description on the dataset page: https://huggingface.co/datasets/emad2001/DeLR-Cephalometric-ConvNeXtV2.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "cephalometric",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-13"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-electricsheepafrica-africa-synth-cancer-oral-cancer-head-neck-africa-all",
+      "title": "electricsheepafrica/africa-synth-cancer-oral-cancer-head-neck-africa-all",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/electricsheepafrica/africa-synth-cancer-oral-cancer-head-neck-africa-all",
+      "doi": "",
+      "date": "2026-02-22",
+      "description": "Oral Cancer Head Neck Africa | Africa (Electric Sheep Africa metadata inventory) Size category: 1K<n<10K - Formats: csv - Sector: health - Engineered by Electric Sheep Africa TL;DR This dataset is part of the Electric Sheep Africa catalog on Hugging Face. It is indexed for African data discovery with standardized metadata, loading guidance, provenance notes, and analyst-oriented context. What This Dataset Covers Health datasets help researchers… See the full description on the dataset page: https://huggingface.co/datasets/electricsheepafrica/africa-synth-cancer-oral-cancer-head-neck-africa-all.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "oral cancer",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-13"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-infobayai-xray-opg-dental-radiology-reports-without-findings-dataset",
+      "title": "InfoBayAI/Xray-OPG-Dental-Radiology-Reports-Without-Findings-Dataset",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/InfoBayAI/Xray-OPG-Dental-Radiology-Reports-Without-Findings-Dataset",
+      "doi": "",
+      "date": "2026-02-18",
+      "description": "Dataset Description: This dataset is a large-scale collection of OPG (Orthopantomogram) X-ray reports without clinical findings, containing data from 970 patients and 970 medical images, designed to support the development and training of advanced healthcare AI, medical imaging, diagnostic AI, and clinical NLP systems. The dataset captures authentic imaging characteristics such as scanner variability, acquisition protocols, and patient positioning, along with clinical narratives. This ensures… See the full description on the dataset page: https://huggingface.co/datasets/InfoBayAI/Xray-OPG-Dental-Radiology-Reports-Without-Findings-Dataset.",
+      "license": "",
+      "access": "Gated",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "dental",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-13"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-praharshita2007-oral-cancer",
+      "title": "Praharshita2007/Oral-Cancer",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/Praharshita2007/Oral-Cancer",
+      "doi": "",
+      "date": "2025-12-14",
+      "description": "",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "oral cancer",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-13"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-wildstash-periodontal-reasoning-40k",
+      "title": "Wildstash/periodontal-reasoning-40k",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/Wildstash/periodontal-reasoning-40k",
+      "doi": "",
+      "date": "2025-10-18",
+      "description": "Periodontal-Reasoning-40k 40,000 periodontal clinical reasoning examples for off-policy RLHF (KTO/DPO). Schema prompt: instruction or question completion: model response label: {+1, -1} preference label Example {\"prompt\": \"A patient's plaque score was 35% at baseline and 1% at follow-up. Determine whether the improvement is favourable according to BSP criteria (≤20% plaque or ≥50% reduction).\", \"completion\": \"The improvement is favourable.\"… See the full description on the dataset page: https://huggingface.co/datasets/Wildstash/periodontal-reasoning-40k.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "periodontal",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-13"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-docty-oral-cancer",
+      "title": "Docty/Oral-Cancer",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/Docty/Oral-Cancer",
+      "doi": "",
+      "date": "2024-11-24",
+      "description": "",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "oral cancer",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-13"
+    },
+    {
+      "id": "zenodo-10-5281-zenodo-24033967",
+      "title": "RCT-PEARL: Annotated periapical radiograph dataset for AI-based quality assessment of root canal obturation",
+      "source": "Zenodo",
+      "url": "https://zenodo.org/records/24033967",
+      "doi": "10.5281/zenodo.24033967",
+      "date": "2026-11-07",
+      "description": "This dataset, named “RCT-PEARL: Annotated periapical radiograph dataset for AI-based quality assessment of root canal obturation” comprises a collection of anonymized intraoral periapical radiographs curated for root canal treatment evaluation. The dataset includes the following: IOPA Radiographs: Radiographic images containing root canal treated teeth. Treated Tooth Annotations: Polygon annotations identifying root canal treated teeth. Root Canal Filling Annotations: Instance-level polygon annotations for individual root canal fillings. Root Apex Keypoints: Keypoint annotations marking the apex locations of treated roots. Filling Quality Labels: Labels for each filling instance covering obturation length, lateral adaptation, voids and preparation irregularities, plus a coronal restoration label for each treated tooth. Additional Findings: Annotations for separated instruments and missed canals where visible. This dataset aims to support the development of multi-task machine learning p",
+      "license": "cc-by-4.0",
+      "access": "See original record",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "tooth",
+      "first_seen": "2026-11-11",
       "last_seen": "2026-11-12"
     },
     {
@@ -914,134 +1090,6 @@
       "source_type": "dataset",
       "status": "unverified",
       "query": "dental",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-medotter-sts-3d-tooth",
-      "title": "MedOtter/STS-3D-Tooth",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/MedOtter/STS-3D-Tooth",
-      "doi": "",
-      "date": "2026-05-05",
-      "description": "STS-3D-Tooth The 3D Cone-Beam CT (CBCT) subset of the STS (Semi-supervised Teeth Segmentation) multi-modal dental dataset, as released in Wang et al., Scientific Data 12, 117 (2025) and used in the MICCAI 2023/2024 STS Challenges. The companion 2D panoramic X-ray subset is hosted at Angelou0516/STS-2D-Tooth. Dataset Summary Field Details Modality Cone-Beam CT (CBCT), NIfTI (.nii.gz) Body Part Teeth (32 permanent teeth, FDI numbering) Volumes 371… See the full description on the dataset page: https://huggingface.co/datasets/MedOtter/STS-3D-Tooth.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "tooth",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-medotter-sts-2d-tooth",
-      "title": "MedOtter/STS-2D-Tooth",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/MedOtter/STS-2D-Tooth",
-      "doi": "",
-      "date": "2026-05-05",
-      "description": "STS-2D-Tooth The 2D panoramic dental X-ray subset of the STS (Semi-supervised Teeth Segmentation) multi-modal dataset, as released in Wang et al., Scientific Data 12, 117 (2025) and used in the MICCAI 2023 STS Challenge. Composition 4,000 panoramic X-ray images (PNG, 640x320, 3-channel grayscale-as-RGB) split across two demographic subsets: Subset Total Labeled Unlabeled A-PXI (adult) 3,500 850 2,650 C-PXI (child) 500 50 450 Total 4,000 900 3,100… See the full description on the dataset page: https://huggingface.co/datasets/MedOtter/STS-2D-Tooth.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "tooth",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-emad2001-delr-cephalometric-convnextv2",
-      "title": "emad2001/DeLR-Cephalometric-ConvNeXtV2",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/emad2001/DeLR-Cephalometric-ConvNeXtV2",
-      "doi": "",
-      "date": "2026-04-27",
-      "description": "DeLR – Dual-encoder Landmark Regression A PyTorch implementation of the DeLR (Dual-encoder Landmark Regression) architecture for cephalometric landmark detection, evaluated on three public datasets: Aariz Cephalograms — 1000 images, 29 annotated landmarks (700 / 150 / 150 train/valid/test). CephAdoAdu Dataset — 700 images, 10 landmarks, mixed adolescent + adult cohort (the public release contains the official 400-image training part and 300-image validation part; the 300… See the full description on the dataset page: https://huggingface.co/datasets/emad2001/DeLR-Cephalometric-ConvNeXtV2.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "cephalometric",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-electricsheepafrica-africa-synth-cancer-oral-cancer-head-neck-africa-all",
-      "title": "electricsheepafrica/africa-synth-cancer-oral-cancer-head-neck-africa-all",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/electricsheepafrica/africa-synth-cancer-oral-cancer-head-neck-africa-all",
-      "doi": "",
-      "date": "2026-02-22",
-      "description": "Oral Cancer Head Neck Africa | Africa (Electric Sheep Africa metadata inventory) Size category: 1K<n<10K - Formats: csv - Sector: health - Engineered by Electric Sheep Africa TL;DR This dataset is part of the Electric Sheep Africa catalog on Hugging Face. It is indexed for African data discovery with standardized metadata, loading guidance, provenance notes, and analyst-oriented context. What This Dataset Covers Health datasets help researchers… See the full description on the dataset page: https://huggingface.co/datasets/electricsheepafrica/africa-synth-cancer-oral-cancer-head-neck-africa-all.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "oral cancer",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-infobayai-xray-opg-dental-radiology-reports-without-findings-dataset",
-      "title": "InfoBayAI/Xray-OPG-Dental-Radiology-Reports-Without-Findings-Dataset",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/InfoBayAI/Xray-OPG-Dental-Radiology-Reports-Without-Findings-Dataset",
-      "doi": "",
-      "date": "2026-02-18",
-      "description": "Dataset Description: This dataset is a large-scale collection of OPG (Orthopantomogram) X-ray reports without clinical findings, containing data from 970 patients and 970 medical images, designed to support the development and training of advanced healthcare AI, medical imaging, diagnostic AI, and clinical NLP systems. The dataset captures authentic imaging characteristics such as scanner variability, acquisition protocols, and patient positioning, along with clinical narratives. This ensures… See the full description on the dataset page: https://huggingface.co/datasets/InfoBayAI/Xray-OPG-Dental-Radiology-Reports-Without-Findings-Dataset.",
-      "license": "",
-      "access": "Gated",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "dental",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-praharshita2007-oral-cancer",
-      "title": "Praharshita2007/Oral-Cancer",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/Praharshita2007/Oral-Cancer",
-      "doi": "",
-      "date": "2025-12-14",
-      "description": "",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "oral cancer",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-wildstash-periodontal-reasoning-40k",
-      "title": "Wildstash/periodontal-reasoning-40k",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/Wildstash/periodontal-reasoning-40k",
-      "doi": "",
-      "date": "2025-10-18",
-      "description": "Periodontal-Reasoning-40k 40,000 periodontal clinical reasoning examples for off-policy RLHF (KTO/DPO). Schema prompt: instruction or question completion: model response label: {+1, -1} preference label Example {\"prompt\": \"A patient's plaque score was 35% at baseline and 1% at follow-up. Determine whether the improvement is favourable according to BSP criteria (≤20% plaque or ≥50% reduction).\", \"completion\": \"The improvement is favourable.\"… See the full description on the dataset page: https://huggingface.co/datasets/Wildstash/periodontal-reasoning-40k.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "periodontal",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-11-12"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-docty-oral-cancer",
-      "title": "Docty/Oral-Cancer",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/Docty/Oral-Cancer",
-      "doi": "",
-      "date": "2024-11-24",
-      "description": "",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "oral cancer",
       "first_seen": "2026-10-19",
       "last_seen": "2026-11-12"
     },
@@ -2998,7 +3046,7 @@
       "last_seen": "2026-10-19"
     }
   ],
-  "total_records": 185,
-  "new_this_scan": 4,
+  "total_records": 188,
+  "new_this_scan": 3,
   "note": "Automatically discovered public metadata only. Every record is unverified; Europe PMC records are publication leads, not confirmed datasets. Sources may fail or be rate-limited. Not an exhaustive index."
 }
