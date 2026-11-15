@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T12:59:51Z",
+  "updated_at": "2026-11-15T13:28:08Z",
   "sources": [
     "Zenodo",
     "Figshare",
@@ -12,14 +12,14 @@
       "query_count": 10,
       "successful_queries": 10,
       "failed_queries": 0,
-      "retrieved_candidate_matches": 8
+      "retrieved_candidate_matches": 12
     },
     {
       "source": "Figshare",
       "query_count": 10,
       "successful_queries": 10,
       "failed_queries": 0,
-      "retrieved_candidate_matches": 21
+      "retrieved_candidate_matches": 23
     },
     {
       "source": "Hugging Face",
@@ -33,10 +33,58 @@
       "query_count": 10,
       "successful_queries": 10,
       "failed_queries": 0,
-      "retrieved_candidate_matches": 4
+      "retrieved_candidate_matches": 5
     }
   ],
   "records": [
+    {
+      "id": "zenodo-10-5281-zenodo-24243922",
+      "title": "PRE-PROSTHETIC PREPARATION OF THE ORAL CAVITY USING THERAPEUTIC, SURGICAL, AND ADJUNCTIVE METHODS IN COMPLETE SECONDARY EDENTULISM",
+      "source": "Zenodo",
+      "url": "https://zenodo.org/records/24243922",
+      "doi": "10.5281/zenodo.24243922",
+      "date": "2026-11-15",
+      "description": "Complete secondary edentulism induces progressive alveolar bone resorption, mucoperiosteal atrophy, vertical dimension collapse, and chronic inflammatory lesions that frequently preclude immediate fabrication of stable complete dentures. Recording impressions over inflamed, hyperplastic, or anatomically irregular basal tissues compromises prosthesis retention, accelerates residual ridge loss, and triggers recurrent mucosal trauma. This clinical-analytical investigation, conducted at the Department of Orthopedic Dentistry and Orthodontics of Andijan State Medical Institute, systematizes a multidisciplinary pre-prosthetic preparation protocol integrating therapeutic, surgical, and adjunctive modalities for completely edentulous patients. Therapeutic preparation targets the resolution of denture-induced stomatitis, fungal colonization, and mucosal compression through prosthesis rest, antimicrobial hygiene, and viscoelastic tissue conditioners—including antifungal-modified soft liners. Sur",
+      "license": "cc-by-4.0",
+      "access": "See original record",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "implant dentistry",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15"
+    },
+    {
+      "id": "figshare-10-6084-m9-figshare-35013586-v1",
+      "title": "Post-treatment mandibular premolar dimensions according to pretreatment Nolla stage in adolescents",
+      "source": "Figshare",
+      "url": "https://figshare.com/articles/dataset/Post-treatment_mandibular_premolar_dimensions_according_to_pretreatment_Nolla_stage_in_adolescents/35013586",
+      "doi": "10.6084/m9.figshare.35013586.v1",
+      "date": "2026-11-15",
+      "description": "",
+      "license": "",
+      "access": "See original record",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "tooth",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15"
+    },
+    {
+      "id": "zenodo-10-5281-zenodo-24232238",
+      "title": "Dataset for: Adjunctive autologous fibrin glue in non-surgical periodontal therapy",
+      "source": "Zenodo",
+      "url": "https://zenodo.org/records/24232238",
+      "doi": "10.5281/zenodo.24232238",
+      "date": "2026-11-14",
+      "description": "This dataset contains the clinical periodontal parameters used in a randomized controlled split-mouth clinical trial evaluating the adjunctive effect of autologous fibrin glue in non-surgical periodontal therapy. The dataset includes probing depth, clinical attachment level, plaque index, gingival index, and bleeding on probing measurements at baseline, 1, 3, and 6 months. Version 2 (November 2026): analysis code (AFG_reanalysis.py, Python/statsmodels) and result tables (results_main.csv, results_baseline.csv, results_icc.csv, results_interaction.csv) reproducing the baseline-adjusted mixed-model analysis of the revised manuscript were added, together with a README describing the data columns. The dataset itself is unchanged.",
+      "license": "cc-by-4.0",
+      "access": "See original record",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "periodontal",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15"
+    },
     {
       "id": "figshare-10-6084-m9-figshare-35009635-v1",
       "title": "The Dental Implant Access Gap: Cost Burden and Specialist Supply in 50 US States, 2026",
@@ -51,7 +99,7 @@
       "status": "unverified",
       "query": "maxillofacial",
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-saurabhsharma24-dental-implant-access-gap-2026",
@@ -67,7 +115,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "figshare-10-3389-froh-2026-2011366-s001",
@@ -83,7 +131,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-healthcare-biomedical-ai-pediatric-dental-medication-safety-constraint-verification-be",
@@ -99,7 +147,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-mango23333-dental-bench-private",
@@ -115,7 +163,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34989742-v1",
@@ -131,7 +179,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "zenodo-10-5281-zenodo-24136022",
@@ -147,7 +195,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34978013-v1",
@@ -163,7 +211,7 @@
       "status": "unverified",
       "query": "oral cancer",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34978004-v1",
@@ -179,7 +227,7 @@
       "status": "unverified",
       "query": "oral cancer",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34978001-v1",
@@ -195,7 +243,7 @@
       "status": "unverified",
       "query": "oral cancer",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-haseebdev-hipaa-dental-tickets1",
@@ -211,7 +259,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "figshare-10-6084-m9-figshare-31239889-v4",
@@ -227,7 +275,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "figshare-10-3389-fcell-2026-1969882-s001",
@@ -243,7 +291,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34970114-v1",
@@ -259,7 +307,23 @@
       "status": "unverified",
       "query": "temporomandibular",
       "first_seen": "2026-11-10",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
+    },
+    {
+      "id": "europe-pmc-10-3390-jcm15218644",
+      "title": "A Comparative Benchmark of Modern Deep Learning Backbones for Multi-Class Periodontal Bone Loss Staging.",
+      "source": "Europe PMC",
+      "url": "https://europepmc.org/article/MED/43030784",
+      "doi": "10.3390/jcm15218644",
+      "date": "2026-11-06",
+      "description": "J Clin Med",
+      "license": "",
+      "access": "Publication; dataset access unconfirmed",
+      "source_type": "publication_lead",
+      "status": "unverified",
+      "query": "periodontal",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15"
     },
     {
       "id": "europe-pmc-10-1007-s00784-026-07242-7",
@@ -275,7 +339,7 @@
       "status": "unverified",
       "query": "orthodontic",
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "figshare-10-3389-fphys-2026-1995127-s002",
@@ -291,7 +355,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-zsanimations-dental-short-scenes",
@@ -307,7 +371,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "zenodo-10-5281-zenodo-23826383",
@@ -323,7 +387,7 @@
       "status": "unverified",
       "query": "temporomandibular",
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-yong56-possible-tooth-ae5440",
@@ -339,7 +403,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "europe-pmc-10-1155-ijog-7538825",
@@ -355,7 +419,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "figshare-10-3389-froh-2026-1983179-s001",
@@ -371,7 +435,7 @@
       "status": "unverified",
       "query": "CBCT",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "figshare-10-3389-fearc-2026-1845423-s001",
@@ -387,7 +451,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "europe-pmc-10-1155-ijod-3585953",
@@ -403,7 +467,7 @@
       "status": "unverified",
       "query": "temporomandibular",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "zenodo-10-5281-zenodo-23854484",
@@ -419,7 +483,7 @@
       "status": "unverified",
       "query": "orthodontic",
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "zenodo-10-5281-zenodo-23842046",
@@ -435,7 +499,7 @@
       "status": "unverified",
       "query": "orthodontic",
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "europe-pmc-europepmc-org-article-pmc-pmc13719469",
@@ -451,7 +515,7 @@
       "status": "unverified",
       "query": "temporomandibular",
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-emad2001-dental-implant-brand-benchmark",
@@ -467,7 +531,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-29",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-rotgarsett-dental-ai-visibility-four-platform",
@@ -483,7 +547,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "zenodo-10-5281-zenodo-23610466",
@@ -499,7 +563,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-jyunkai-dental-ai-eval",
@@ -515,7 +579,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "zenodo-10-5281-zenodo-23382041",
@@ -531,7 +595,7 @@
       "status": "unverified",
       "query": "temporomandibular",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34477509-v1",
@@ -547,7 +611,7 @@
       "status": "unverified",
       "query": "implant dentistry",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-emad2001-dental-implant-brand-classification",
@@ -563,7 +627,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-tirandazdylan-pediatric-dental-disease",
@@ -579,7 +643,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "figshare-10-6084-m9-figshare-34069407-v1",
@@ -595,7 +659,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-national-digital-qld-public-dental-waiting-lists",
@@ -611,7 +675,23 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-sabinx877-sam-dental-v2-results",
+      "title": "Sabinx877/sam-dental-v2-results",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/Sabinx877/sam-dental-v2-results",
+      "doi": "",
+      "date": "2026-10-02",
+      "description": "Few-Shot SAM Adaptation for Caries-Affected Teeth: Results and Adapters Results, trained LoRA adapters and figures for the paper: Few-Shot Adaptation of the Segment Anything Model for Caries-Affected Teeth in Panoramic Radiographs: In-Domain Gains, Annotation Style and External Validation Sabin Bhattarai, Sandesh Poudel. 19th IOE Graduate Conference, 2026. Code: https://github.com/Sabinx87/Dental Contents adapters/: trained LoRA adapters (10, 20 and 50 training… See the full description on the dataset page: https://huggingface.co/datasets/Sabinx877/sam-dental-v2-results.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "dental",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-danglili-dental-panoramic-xray-yolo",
@@ -627,7 +707,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-hetusuki-dental-panoramic-xray-yolo",
@@ -643,7 +723,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "figshare-10-1371-journal-pone-0358261-t005",
@@ -659,7 +739,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "figshare-10-1371-journal-pone-0358261-t004",
@@ -675,7 +755,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "figshare-10-1371-journal-pone-0358261-t002",
@@ -691,7 +771,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "figshare-10-1371-journal-pone-0358261-s001",
@@ -707,7 +787,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "zenodo-10-5281-zenodo-22641950",
@@ -723,7 +803,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-samin-yadollahi-26-panoramic-x-ray-tooth",
@@ -739,7 +819,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-yiz0307-dentalvoice",
@@ -755,7 +835,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-tresor2k-us-medicaid-dental-payments-by-state-2018-2024",
@@ -771,7 +851,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-kellection-sonata-dental-dataset",
@@ -787,23 +867,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
-    },
-    {
-      "id": "hugging-face-huggingface-co-datasets-tresor2k-us-dental-insurance-acceptance-by-state-2026",
-      "title": "tresor2k/us-dental-insurance-acceptance-by-state-2026",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/datasets/tresor2k/us-dental-insurance-acceptance-by-state-2026",
-      "doi": "",
-      "date": "2026-08-22",
-      "description": "US Dental Insurance Acceptance by State 2026 One row per US state plus the District of Columbia: 51 rows, 14 columns. For each state it brings together, in a single table, numbers that are usually scattered across several federal and association sources: share of dentists accepting Medicaid patients (pct_dentists_medicaid), with the state's rank adult Medicaid dental benefit level (medicaid_adult_dental_level: extensive / limited / emergency_only / none) and the annual cap when… See the full description on the dataset page: https://huggingface.co/datasets/tresor2k/us-dental-insurance-acceptance-by-state-2026.",
-      "license": "",
-      "access": "See dataset card",
-      "source_type": "dataset",
-      "status": "unverified",
-      "query": "dental",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-oralsurgery-dental-implant-surgery-sample",
@@ -819,7 +883,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "zenodo-10-5281-zenodo-21501904",
@@ -835,7 +899,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-nichevault-nichevault-uk-dental-practices",
@@ -851,7 +915,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-haseebdev-hipaa-dental-tickets",
@@ -867,7 +931,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-alliecat035-tooth",
@@ -883,7 +947,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-medotter-sts-3d-tooth",
@@ -899,7 +963,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-medotter-sts-2d-tooth",
@@ -915,7 +979,7 @@
       "status": "unverified",
       "query": "tooth",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-emad2001-delr-cephalometric-convnextv2",
@@ -931,7 +995,7 @@
       "status": "unverified",
       "query": "cephalometric",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-electricsheepafrica-africa-synth-cancer-oral-cancer-head-neck-africa-all",
@@ -947,7 +1011,7 @@
       "status": "unverified",
       "query": "oral cancer",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-infobayai-xray-opg-dental-radiology-reports-without-findings-dataset",
@@ -963,7 +1027,7 @@
       "status": "unverified",
       "query": "dental",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-praharshita2007-oral-cancer",
@@ -979,7 +1043,7 @@
       "status": "unverified",
       "query": "oral cancer",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-wildstash-periodontal-reasoning-40k",
@@ -995,7 +1059,7 @@
       "status": "unverified",
       "query": "periodontal",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     {
       "id": "hugging-face-huggingface-co-datasets-docty-oral-cancer",
@@ -1010,6 +1074,22 @@
       "source_type": "dataset",
       "status": "unverified",
       "query": "oral cancer",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-11-15"
+    },
+    {
+      "id": "hugging-face-huggingface-co-datasets-tresor2k-us-dental-insurance-acceptance-by-state-2026",
+      "title": "tresor2k/us-dental-insurance-acceptance-by-state-2026",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/datasets/tresor2k/us-dental-insurance-acceptance-by-state-2026",
+      "doi": "",
+      "date": "2026-08-22",
+      "description": "US Dental Insurance Acceptance by State 2026 One row per US state plus the District of Columbia: 51 rows, 14 columns. For each state it brings together, in a single table, numbers that are usually scattered across several federal and association sources: share of dentists accepting Medicaid patients (pct_dentists_medicaid), with the state's rank adult Medicaid dental benefit level (medicaid_adult_dental_level: extensive / limited / emergency_only / none) and the annual cap when… See the full description on the dataset page: https://huggingface.co/datasets/tresor2k/us-dental-insurance-acceptance-by-state-2026.",
+      "license": "",
+      "access": "See dataset card",
+      "source_type": "dataset",
+      "status": "unverified",
+      "query": "dental",
       "first_seen": "2026-10-19",
       "last_seen": "2026-11-14"
     },
@@ -3078,7 +3158,7 @@
       "last_seen": "2026-10-19"
     }
   ],
-  "total_records": 190,
-  "new_this_scan": 2,
+  "total_records": 195,
+  "new_this_scan": 5,
   "note": "Automatically discovered public metadata only. Every record is unverified; Europe PMC records are publication leads, not confirmed datasets. Sources may fail or be rate-limited. Not an exhaustive index."
 }
