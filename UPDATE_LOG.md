@@ -39,3 +39,9 @@
 - Clarified that discovery leads are not confirmed records and that internet-wide completeness cannot be guaranteed.
 
 - Added 29 additional oral-health and craniofacial leads from NIDCR source categories, bringing the review queue to 71 leads.
+
+## 2026-11-24 — PanoraDent and DentVoxel
+
+- Added PanoraDent v1 (https://data.mendeley.com/datasets/2w8ppb94s4/1), 1,295 radiographs, CC BY 4.0.
+- Promoted DentVoxel from discovery feed to curated metadata using the original descriptor (https://doi.org/10.1038/s41597-026-08868-8); 100 patients, 38 structures. Figshare v3/v4 are versions, not independent cohorts; direct repository access returned 403. No binary files audited.
+- General catalogue: 66 records, 22 dental imaging. Atlas rendering not verified.
