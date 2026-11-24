@@ -6,12 +6,12 @@ Use this page as the entry point to the repository's dataset records. The CSVs g
 
 | Catalogue | Records | Main contents | File |
 |---|---:|---|---|
-| Dental imaging | 20 | Panoramic and periapical radiographs, CBCT, annotations, and segmentation | [dental_imaging.csv](dental_imaging.csv) |
+| Dental imaging | 22 | Panoramic and periapical radiographs, CBCT, annotations, and segmentation | [dental_imaging.csv](dental_imaging.csv) |
 | Oral medicine | 25 | Oral mucosal disease, oral pathology, and oral cancer resources | [oral_medicine.csv](oral_medicine.csv) |
 | Digital dentistry | 13 | Intraoral scans, virtual-patient data, facial motion, and jaw tracking | [digital_dentistry.csv](digital_dentistry.csv) |
 | Clinical reasoning benchmarks | 6 | Dental QA, multimodal benchmarks, and controlled-access clinical sets | [clinical_reasoning_benchmarks.csv](clinical_reasoning_benchmarks.csv) |
 
-The 64 rows are catalogue records, not 64 confirmed unique datasets. Check identifiers, source URLs, and verification notes before counting or combining records.
+The 66 rows are catalogue records, not 64 confirmed unique datasets. Check identifiers, source URLs, and verification notes before counting or combining records.
 
 ## Find records
 
@@ -21,7 +21,7 @@ The 64 rows are catalogue records, not 64 confirmed unique datasets. Check ident
 
 ## Dedicated periodontics catalogue
 
-The separately maintained [periodontics-datasets repository](https://github.com/dr-lamia/periodontics-datasets) contains **32 records** spanning photographs, radiographs, ultrasound, longitudinal outcomes, transcriptomics and microbiome. These are **not** included in the 64-row general catalogue total. The SPT PhysioNet record is deliberately cross-linked here in the clinical decision-support CSV; it represents the **same 883-patient cohort**, not an additional independent cohort. The dedicated catalogue now also includes [therapy-resistant periodontitis multi-omics (Zenodo v2)](https://zenodo.org/records/21648577), with 58.1 MB of public-listed gene-expression, metabolite, ELISA and qPCR files. Licence and donor identifiers remain unverified. This record is **not counted** in the 64 general catalogue rows, pending a dedicated Atlas category. Other periodontics-specific omics records likewise remain in the dedicated catalogue.
+The separately maintained [periodontics-datasets repository](https://github.com/dr-lamia/periodontics-datasets) contains **32 records** spanning photographs, radiographs, ultrasound, longitudinal outcomes, transcriptomics and microbiome. These are **not** included in the 66-row general catalogue total. The SPT PhysioNet record is deliberately cross-linked here in the clinical decision-support CSV; it represents the **same 883-patient cohort**, not an additional independent cohort. The dedicated catalogue now also includes [therapy-resistant periodontitis multi-omics (Zenodo v2)](https://zenodo.org/records/21648577), with 58.1 MB of public-listed gene-expression, metabolite, ELISA and qPCR files. Licence and donor identifiers remain unverified. This record is **not counted** in the 66 general catalogue rows, pending a dedicated Atlas category. Other periodontics-specific omics records likewise remain in the dedicated catalogue.
 
 ## Discovery queue
 
